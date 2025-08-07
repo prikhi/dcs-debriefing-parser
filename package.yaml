@@ -1,0 +1,102 @@
+---
+
+name:
+    dcs-briefing-parser
+version:
+    0.1.0.0
+github:
+    prikhi/dcs-briefing-parser
+homepage:
+    https://github.com/prikhi/dcs-briefing-parser#readme
+license:
+    BSD3
+license-file:
+    LICENSE
+author:
+    Pavan Rikhi
+maintainer:
+    pavan.rikhi@gmail.com
+copyright:
+    2025 Pavan Rikhi
+category:
+    Web
+extra-source-files:
+    - README.md
+    - CHANGELOG.md
+
+
+synopsis:
+    Short, one-line summary of project here.
+
+description: |
+    Longer description of package here.
+
+    Maybe include a simple usage example.
+
+
+language: GHC2021
+
+ghc-options:
+    - -Wall
+    - -Wcompat
+    - -Wimplicit-lift
+    - -Wincomplete-patterns
+    - -Wincomplete-record-updates
+    - -Wincomplete-uni-patterns
+    - -Wmissing-exported-signatures
+    - -Wmissing-methods
+    - -Wmissing-signatures
+    - -Wname-shadowing
+    - -Wredundant-bang-patterns
+    - -Wredundant-constraints
+    - -Wunused-packages
+    - -O2
+
+default-extensions:
+    - DerivingStrategies
+    - LambdaCase
+    - MultiWayIf
+    - OverloadedStrings
+    - RecordWildCards
+    - ViewPatterns
+
+
+dependencies:
+    - base >= 4.7 && < 5
+
+
+library:
+    source-dirs:
+        src
+    dependencies:
+        []
+
+executables:
+    dcs-briefing-parser:
+        source-dirs:
+            app
+        main:
+            Main.hs
+        ghc-options:
+            - -threaded
+            - -rtsopts
+            - -with-rtsopts "-N -T"
+        dependencies:
+            - dcs-briefing-parser
+
+tests:
+    dcs-briefing-parser-test:
+        main: Spec.hs
+        source-dirs:
+            tests
+        ghc-options:
+            - -threaded
+            - -rtsopts
+            - -with-rtsopts "-N -T"
+            - -Wno-unused-packages
+        dependencies:
+            - dcs-briefing-parser
+            - hedgehog
+            - tasty
+            - tasty-hedgehog
+            - tasty-hunit

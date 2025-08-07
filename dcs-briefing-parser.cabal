@@ -1,0 +1,90 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.38.1.
+--
+-- see: https://github.com/sol/hpack
+
+name:           dcs-briefing-parser
+version:        0.1.0.0
+synopsis:       Short, one-line summary of project here.
+description:    Longer description of package here.
+                .
+                Maybe include a simple usage example.
+category:       Web
+homepage:       https://github.com/prikhi/dcs-briefing-parser#readme
+bug-reports:    https://github.com/prikhi/dcs-briefing-parser/issues
+author:         Pavan Rikhi
+maintainer:     pavan.rikhi@gmail.com
+copyright:      2025 Pavan Rikhi
+license:        BSD3
+license-file:   LICENSE
+build-type:     Simple
+extra-source-files:
+    README.md
+    CHANGELOG.md
+
+source-repository head
+  type: git
+  location: https://github.com/prikhi/dcs-briefing-parser
+
+library
+  exposed-modules:
+      Lib
+  other-modules:
+      Paths_dcs_briefing_parser
+  hs-source-dirs:
+      src
+  default-extensions:
+      DerivingStrategies
+      LambdaCase
+      MultiWayIf
+      OverloadedStrings
+      RecordWildCards
+      ViewPatterns
+  ghc-options: -Wall -Wcompat -Wimplicit-lift -Wincomplete-patterns -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-exported-signatures -Wmissing-methods -Wmissing-signatures -Wname-shadowing -Wredundant-bang-patterns -Wredundant-constraints -Wunused-packages -O2
+  build-depends:
+      base >=4.7 && <5
+  default-language: GHC2021
+
+executable dcs-briefing-parser
+  main-is: Main.hs
+  other-modules:
+      Paths_dcs_briefing_parser
+  hs-source-dirs:
+      app
+  default-extensions:
+      DerivingStrategies
+      LambdaCase
+      MultiWayIf
+      OverloadedStrings
+      RecordWildCards
+      ViewPatterns
+  ghc-options: -Wall -Wcompat -Wimplicit-lift -Wincomplete-patterns -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-exported-signatures -Wmissing-methods -Wmissing-signatures -Wname-shadowing -Wredundant-bang-patterns -Wredundant-constraints -Wunused-packages -O2 -threaded -rtsopts -with-rtsopts "-N -T"
+  build-depends:
+      base >=4.7 && <5
+    , dcs-briefing-parser
+  default-language: GHC2021
+
+test-suite dcs-briefing-parser-test
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  other-modules:
+      Paths_dcs_briefing_parser
+  hs-source-dirs:
+      tests
+  default-extensions:
+      DerivingStrategies
+      LambdaCase
+      MultiWayIf
+      OverloadedStrings
+      RecordWildCards
+      ViewPatterns
+  ghc-options: -Wall -Wcompat -Wimplicit-lift -Wincomplete-patterns -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-exported-signatures -Wmissing-methods -Wmissing-signatures -Wname-shadowing -Wredundant-bang-patterns -Wredundant-constraints -Wunused-packages -O2 -threaded -rtsopts -with-rtsopts "-N -T" -Wno-unused-packages
+  build-depends:
+      base >=4.7 && <5
+    , dcs-briefing-parser
+    , hedgehog
+    , tasty
+    , tasty-hedgehog
+    , tasty-hunit
+  default-language: GHC2021
