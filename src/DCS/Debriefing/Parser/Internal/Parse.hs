@@ -1,4 +1,4 @@
-module DCS.Briefing.Parser.Internal.Parse where
+module DCS.Debriefing.Parser.Internal.Parse where
 
 import Control.Monad (forM_, (>=>))
 import Data.Bifunctor (first)
@@ -13,8 +13,8 @@ import Data.Text (Text)
 import Data.Text qualified as T
 import Data.Time (DiffTime, TimeOfDay, timeToTimeOfDay)
 
-import DCS.Briefing.Parser.Internal.Lexer (RawBriefing (..), RawValue (..), Variable (..), displayRawValue, lexerHarness)
-import DCS.Briefing.Parser.Types
+import DCS.Debriefing.Parser.Internal.Lexer (RawDebriefing (..), RawValue (..), Variable (..), displayRawValue, lexerHarness)
+import DCS.Debriefing.Parser.Types
 
 
 data ParseError
@@ -42,7 +42,7 @@ testParsing = forM_ [1 .. 17] $ \(i :: Int) -> do
         Left e ->
             putStrLn $ fileName <> ":\tlexing failed - " <> e
         Right r ->
-            case parseBriefing r of
+            case parseDebriefing r of
                 Left e ->
                     putStrLn $ fileName <> ":\tparsing failed - " <> show e
                 Right _b ->
@@ -51,8 +51,8 @@ testParsing = forM_ [1 .. 17] $ \(i :: Int) -> do
 
 -- TOP LEVEL
 
-parseBriefing :: RawBriefing -> Either ParseError DCSBriefing
-parseBriefing (RawBriefing vs) = do
+parseDebriefing :: RawDebriefing -> Either ParseError DCSDebriefing
+parseDebriefing (RawDebriefing vs) = do
     missionFilePath <- expectStringVar "mission_file_path"
     callsign <- expectStringVar "callsign"
     missionFileMark <- expectIntegerVar "mission_file_mark"
@@ -62,7 +62,7 @@ parseBriefing (RawBriefing vs) = do
     warehouses <- expectMapVar "warehouses" parseWarehouses
     events <- expectArrayVar "events" parseEvent
     pure
-        DCSBriefing
+        DCSDebriefing
             { worldState = []
             , ..
             }

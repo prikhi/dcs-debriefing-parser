@@ -29,9 +29,9 @@ source-repository head
 
 library
   exposed-modules:
-      DCS.Briefing.Parser.Internal.Lexer
-      DCS.Briefing.Parser.Internal.Parse
-      DCS.Briefing.Parser.Types
+      DCS.Debriefing.Parser.Internal.Lexer
+      DCS.Debriefing.Parser.Internal.Parse
+      DCS.Debriefing.Parser.Types
   other-modules:
       Paths_dcs_debriefing_parser
   hs-source-dirs:

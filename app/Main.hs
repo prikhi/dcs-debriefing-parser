@@ -1,6 +1,6 @@
 module Main where
 
-import DCS.Briefing.Parser.Internal.Parse
+import DCS.Debriefing.Parser.Internal.Parse
 
 
 main :: IO ()

@@ -1,4 +1,4 @@
-module DCS.Briefing.Parser.Internal.Lexer where
+module DCS.Debriefing.Parser.Internal.Lexer where
 
 import Control.Monad (void)
 import Data.Char (isAlphaNum)
@@ -18,24 +18,26 @@ import Data.Text qualified as T
 import Text.Megaparsec.Char.Lexer qualified as L
 
 
-lexerHarness :: FilePath -> IO (Either String RawBriefing)
+lexerHarness :: FilePath -> IO (Either String RawDebriefing)
 lexerHarness fp = do
     input <- T.readFile fp
-    pure $ case parse @Void parseRawBriefing fp input of
+    pure $ case parse @Void parseRawDebriefing fp input of
         Left e ->
             Left $ errorBundlePretty e
         Right r ->
             Right r
 
 
-data RawBriefing = RawBriefing [Variable]
+data RawDebriefing = RawDebriefing [Variable]
     deriving stock (Show, Eq)
 
 
-parseRawBriefing :: (MonadParsec e Text m) => m RawBriefing
-parseRawBriefing = RawBriefing <$> some parseVariable
+parseRawDebriefing :: (MonadParsec e Text m) => m RawDebriefing
+parseRawDebriefing = RawDebriefing <$> some parseVariable
 
 
+-- TODO: should really be called "assignment", "global value", or something
+-- - doesn't change so not a variable...
 data Variable
     = Variable
     { varName :: Text
@@ -55,12 +57,13 @@ parseVariable = do
 parseVariableName :: (MonadParsec e Text m) => m Text
 parseVariableName = lexeme (takeWhile1P Nothing (\c -> isAlphaNum c || c == '_')) <?> "letter or underscore"
 
-parseKeyName :: MonadParsec e Text m => m Text
-parseKeyName = choice
-    [ char '"' *> lexeme (takeWhile1P Nothing (/= '"')) <* char '"'
-    , parseVariableName
-    ]
 
+parseKeyName :: (MonadParsec e Text m) => m Text
+parseKeyName =
+    choice
+        [ char '"' *> lexeme (takeWhile1P Nothing (/= '"')) <* char '"'
+        , parseVariableName
+        ]
 
 
 data RawValue

@@ -1,6 +1,6 @@
 {-# LANGUAGE DuplicateRecordFields #-}
 
-module DCS.Briefing.Parser.Types where
+module DCS.Debriefing.Parser.Types where
 
 import Data.HashMap.Strict (HashMap)
 import Data.IntMap (IntMap)
@@ -8,7 +8,7 @@ import Data.Text (Text)
 import Data.Time (DiffTime, TimeOfDay)
 
 
-data DCSBriefing = DCSBriefing
+data DCSDebriefing = DCSDebriefing
     { missionFilePath :: Text
     , callsign :: Text
     , worldState :: [()]
