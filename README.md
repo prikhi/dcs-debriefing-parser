@@ -1,9 +1,10 @@
-# dcs-briefing-parser
+# dcs-debriefing-parser
 
-[![dcs-briefing-parser Build Status](https://github.com/prikhi/dcs-briefing-parser/actions/workflows/main.yml/badge.svg)](https://github.com/prikhi/dcs-briefing-parser/actions/workflows/main.yml)
+[![dcs-debriefing-parser Build Status](https://github.com/prikhi/dcs-debriefing-parser/actions/workflows/main.yml/badge.svg)](https://github.com/prikhi/dcs-debriefing-parser/actions/workflows/main.yml)
 
 
-Describe your project here.
+Types & parser for Digital Combat Simulater debriefing files.
+
 
 Requires [`stack`][get-stack]:
 
@@ -22,7 +23,7 @@ executable directly instead of through stack:
 ```sh
 stack install
 export PATH="${HOME}/.local/bin/:${PATH}"
-dcs-briefing-parser
+dcs-debriefing-parser
 ```
 
 
@@ -44,7 +45,7 @@ stack test --haddock --fast --file-watch --pedantic
 To build & open the documentation, run:
 
 ```sh
-stack haddock --open dcs-briefing-parser
+stack haddock --open dcs-debriefing-parser
 ```
 
 

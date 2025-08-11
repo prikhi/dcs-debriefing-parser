@@ -1,0 +1,3605 @@
+mission_file_path	=	"C:/users/steamuser/Saved Games/DCS/Missions//Su-25T - Community - PokeBear.miz"
+callsign	=	"Lysergia"
+world_state = 
+{
+	[1] = 
+	{
+		coalition	=	"red",
+		type	=	"Su-27",
+		heading	=	2.3212876955615,
+		unitId	=	3,
+		alt	=	32.330486297607,
+		y	=	368340.9375,
+		x	=	10971.734375,
+		country	=	81,
+	}, -- end of [1]
+	[2] = 
+	{
+		coalition	=	"red",
+		type	=	"Su-27",
+		heading	=	2.3212876955615,
+		unitId	=	5,
+		alt	=	32.330486297607,
+		y	=	368365.0625,
+		x	=	10995.86328125,
+		country	=	81,
+	}, -- end of [2]
+	[3] = 
+	{
+		coalition	=	"red",
+		type	=	"Tech hangar A",
+		heading	=	3.9269908110248,
+		unitId	=	6,
+		alt	=	30.01003074646,
+		y	=	368545.53125,
+		x	=	11163.086914063,
+		country	=	81,
+	}, -- end of [3]
+	[4] = 
+	{
+		coalition	=	"red",
+		type	=	"CV_59_H60",
+		heading	=	0.29670602480044,
+		unitId	=	19,
+		alt	=	30.010032653809,
+		y	=	368537.28125,
+		x	=	11027.036132813,
+		country	=	81,
+	}, -- end of [4]
+	[5] = 
+	{
+		coalition	=	"red",
+		type	=	"Camouflage02",
+		heading	=	3.9269908110248,
+		unitId	=	21,
+		alt	=	30.01003074646,
+		y	=	368542.6875,
+		x	=	11032.205078125,
+		country	=	81,
+	}, -- end of [5]
+	[6] = 
+	{
+		coalition	=	"red",
+		type	=	"us carrier tech",
+		heading	=	3.1939526239978,
+		unitId	=	27,
+		alt	=	30.01003074646,
+		y	=	368541.25,
+		x	=	11036.037109375,
+		country	=	81,
+	}, -- end of [6]
+	[7] = 
+	{
+		coalition	=	"red",
+		type	=	"us carrier tech",
+		heading	=	3.1066859404193,
+		unitId	=	28,
+		alt	=	30.01003074646,
+		y	=	368516.71875,
+		x	=	11041.553710938,
+		country	=	81,
+	}, -- end of [7]
+	[8] = 
+	{
+		coalition	=	"red",
+		type	=	"us carrier tech",
+		heading	=	3.1066859404193,
+		unitId	=	29,
+		alt	=	30.01003074646,
+		y	=	368516.96875,
+		x	=	11047.75390625,
+		country	=	81,
+	}, -- end of [8]
+	[9] = 
+	{
+		coalition	=	"red",
+		type	=	"us carrier tech",
+		heading	=	3.4557519594776,
+		unitId	=	30,
+		alt	=	30.01003074646,
+		y	=	368540.03125,
+		x	=	11034.3671875,
+		country	=	81,
+	}, -- end of [9]
+	[10] = 
+	{
+		coalition	=	"red",
+		type	=	"AM32a-60_02",
+		heading	=	2.4958205858814,
+		unitId	=	32,
+		alt	=	30.01003074646,
+		y	=	368546.5,
+		x	=	11037.475585938,
+		country	=	81,
+	}, -- end of [10]
+	[11] = 
+	{
+		coalition	=	"red",
+		type	=	"AM32a-60_02",
+		heading	=	2.199114624654,
+		unitId	=	33,
+		alt	=	30.010028839111,
+		y	=	368548.21875,
+		x	=	11039.21875,
+		country	=	81,
+	}, -- end of [11]
+	[12] = 
+	{
+		coalition	=	"blue",
+		type	=	"Su-25T",
+		heading	=	2.303834501897,
+		unitId	=	34,
+		alt	=	24.045877456665,
+		y	=	298018.25,
+		x	=	-50558.8125,
+		country	=	80,
+	}, -- end of [12]
+	[13] = 
+	{
+		coalition	=	"blue",
+		type	=	"Su-25T",
+		heading	=	2.303834501897,
+		unitId	=	35,
+		alt	=	24.045877456665,
+		y	=	298031.09375,
+		x	=	-50543.578125,
+		country	=	80,
+	}, -- end of [13]
+	[14] = 
+	{
+		coalition	=	"blue",
+		type	=	"Su-25T",
+		heading	=	2.303834501897,
+		unitId	=	36,
+		alt	=	24.045875549316,
+		y	=	298043.71875,
+		x	=	-50527.7421875,
+		country	=	80,
+	}, -- end of [14]
+	[15] = 
+	{
+		coalition	=	"blue",
+		type	=	"Su-25T",
+		heading	=	2.303834501897,
+		unitId	=	37,
+		alt	=	24.045875549316,
+		y	=	298056.78125,
+		x	=	-50512.46875,
+		country	=	80,
+	}, -- end of [15]
+	[16] = 
+	{
+		coalition	=	"blue",
+		type	=	"Su-25T",
+		heading	=	2.303834501897,
+		unitId	=	38,
+		alt	=	24.045877456665,
+		y	=	298069.3125,
+		x	=	-50497.13671875,
+		country	=	80,
+	}, -- end of [16]
+	[17] = 
+	{
+		coalition	=	"blue",
+		type	=	"Su-25T",
+		heading	=	2.303834501897,
+		unitId	=	39,
+		alt	=	24.045877456665,
+		y	=	298108.5625,
+		x	=	-50452.0234375,
+		country	=	80,
+	}, -- end of [17]
+	[18] = 
+	{
+		coalition	=	"blue",
+		type	=	"Su-25T",
+		heading	=	2.303834501897,
+		unitId	=	42,
+		alt	=	24.045877456665,
+		y	=	298121.6875,
+		x	=	-50435,
+		country	=	80,
+	}, -- end of [18]
+	[19] = 
+	{
+		coalition	=	"blue",
+		type	=	"IL-78M",
+		heading	=	2.2689278761493,
+		unitId	=	47,
+		alt	=	25.953102111816,
+		y	=	298473.625,
+		x	=	-50018.8203125,
+		country	=	80,
+	}, -- end of [19]
+	[20] = 
+	{
+		coalition	=	"blue",
+		type	=	"IL-78M",
+		heading	=	2.2689278761493,
+		unitId	=	48,
+		alt	=	25.953100204468,
+		y	=	298415.6875,
+		x	=	-50089.703125,
+		country	=	80,
+	}, -- end of [20]
+	[21] = 
+	{
+		alt	=	30.011030197144,
+		type	=	"tt_ZU-23",
+		groupId	=	37,
+		coalition	=	"red",
+		x	=	11432.431640625,
+		heading	=	4.1538835207569,
+		y	=	368817.0625,
+		speed	=	0,
+		unitId	=	49,
+		N_obj	=	1,
+		country	=	81,
+	}, -- end of [21]
+	[22] = 
+	{
+		alt	=	30.011032104492,
+		type	=	"tt_ZU-23",
+		groupId	=	38,
+		coalition	=	"red",
+		x	=	11239.659179688,
+		heading	=	3.2637658754932,
+		y	=	367446.5625,
+		speed	=	0,
+		unitId	=	50,
+		N_obj	=	1,
+		country	=	81,
+	}, -- end of [22]
+	[23] = 
+	{
+		alt	=	30.011030197144,
+		type	=	"tt_ZU-23",
+		groupId	=	39,
+		coalition	=	"red",
+		x	=	11349.62109375,
+		heading	=	2.3561943213092,
+		y	=	369475.6875,
+		speed	=	0,
+		unitId	=	51,
+		N_obj	=	1,
+		country	=	81,
+	}, -- end of [23]
+	[24] = 
+	{
+		alt	=	30.011032104492,
+		type	=	"tt_ZU-23",
+		groupId	=	40,
+		coalition	=	"red",
+		x	=	11107.706054688,
+		heading	=	3.5255652109729,
+		y	=	368557.65625,
+		speed	=	0,
+		unitId	=	52,
+		N_obj	=	1,
+		country	=	81,
+	}, -- end of [24]
+	[25] = 
+	{
+		alt	=	1389.3695068359,
+		type	=	"Su-25T",
+		groupId	=	31,
+		heading	=	1.5139005819904,
+		y	=	287535.71875,
+		coalition	=	"blue",
+		x	=	-56349.40625,
+		speed	=	124.52437591553,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{682A481F-0CB5-4693-A382-D00DD4A156D7}",
+				}, -- end of [1]
+				[3] = 
+				{
+					CLSID	=	"{FC56DF80-9B09-44C5-8976-DCFAFF219062}",
+				}, -- end of [3]
+				[4] = 
+				{
+					CLSID	=	"{FC56DF80-9B09-44C5-8976-DCFAFF219062}",
+				}, -- end of [4]
+				[5] = 
+				{
+					CLSID	=	"{E8D4652F-FD48-45B7-BA5B-2AE05BB5A9CF}",
+				}, -- end of [5]
+				[7] = 
+				{
+					CLSID	=	"{E8D4652F-FD48-45B7-BA5B-2AE05BB5A9CF}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{FC56DF80-9B09-44C5-8976-DCFAFF219062}",
+				}, -- end of [8]
+				[9] = 
+				{
+					CLSID	=	"{FC56DF80-9B09-44C5-8976-DCFAFF219062}",
+				}, -- end of [9]
+				[11] = 
+				{
+					CLSID	=	"{682A481F-0CB5-4693-A382-D00DD4A156D7}",
+				}, -- end of [11]
+			}, -- end of pylons
+			fuel	=	3790,
+			flare	=	128,
+			chaff	=	128,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	1,
+		inAir	=	true,
+		unitId	=	40,
+		country	=	80,
+	}, -- end of [25]
+	[26] = 
+	{
+		alt	=	1400.7424316406,
+		type	=	"Su-25T",
+		groupId	=	31,
+		heading	=	1.7241409460651,
+		y	=	286646.5,
+		goto	=	1,
+		coalition	=	"blue",
+		x	=	-56195.234375,
+		speed	=	147.6117401123,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{682A481F-0CB5-4693-A382-D00DD4A156D7}",
+				}, -- end of [1]
+				[3] = 
+				{
+					CLSID	=	"{FC56DF80-9B09-44C5-8976-DCFAFF219062}",
+				}, -- end of [3]
+				[4] = 
+				{
+					CLSID	=	"{FC56DF80-9B09-44C5-8976-DCFAFF219062}",
+				}, -- end of [4]
+				[5] = 
+				{
+					CLSID	=	"{E8D4652F-FD48-45B7-BA5B-2AE05BB5A9CF}",
+				}, -- end of [5]
+				[7] = 
+				{
+					CLSID	=	"{E8D4652F-FD48-45B7-BA5B-2AE05BB5A9CF}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{FC56DF80-9B09-44C5-8976-DCFAFF219062}",
+				}, -- end of [8]
+				[9] = 
+				{
+					CLSID	=	"{FC56DF80-9B09-44C5-8976-DCFAFF219062}",
+				}, -- end of [9]
+				[11] = 
+				{
+					CLSID	=	"{682A481F-0CB5-4693-A382-D00DD4A156D7}",
+				}, -- end of [11]
+			}, -- end of pylons
+			fuel	=	3790,
+			flare	=	128,
+			chaff	=	128,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	2,
+		inAir	=	true,
+		unitId	=	41,
+		country	=	80,
+	}, -- end of [26]
+	[27] = 
+	{
+		alt	=	22.01092338562,
+		type	=	"ATZ-10",
+		groupId	=	33,
+		coalition	=	"blue",
+		x	=	-50611.08203125,
+		heading	=	5.396918360387,
+		y	=	297967.40625,
+		speed	=	0,
+		unitId	=	43,
+		N_obj	=	1,
+		country	=	80,
+	}, -- end of [27]
+	[28] = 
+	{
+		alt	=	22.01092338562,
+		type	=	"M-2 Bradley",
+		groupId	=	34,
+		coalition	=	"blue",
+		x	=	-50273.59375,
+		heading	=	3.0019660631763,
+		y	=	298284.90625,
+		speed	=	0,
+		unitId	=	46,
+		N_obj	=	1,
+		country	=	80,
+	}, -- end of [28]
+	[29] = 
+	{
+		alt	=	22.01092338562,
+		type	=	"Soldier M4",
+		groupId	=	34,
+		coalition	=	"blue",
+		x	=	-50274.40625,
+		heading	=	2.0420354048358,
+		y	=	298291.25,
+		speed	=	0,
+		unitId	=	45,
+		N_obj	=	2,
+		country	=	80,
+	}, -- end of [29]
+	[30] = 
+	{
+		alt	=	22.01092338562,
+		type	=	"Soldier M4",
+		groupId	=	34,
+		coalition	=	"blue",
+		x	=	-50279.48828125,
+		heading	=	3.0019660631763,
+		y	=	298287.375,
+		speed	=	0,
+		unitId	=	44,
+		N_obj	=	3,
+		country	=	80,
+	}, -- end of [30]
+	[31] = 
+	{
+		alt	=	23.857755661011,
+		type	=	"Su-25T",
+		groupId	=	7,
+		heading	=	5.459610823785,
+		y	=	298417.75,
+		coalition	=	"blue",
+		x	=	-50011.2734375,
+		unitId	=	7,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{682A481F-0CB5-4693-A382-D00DD4A156D7}",
+				}, -- end of [1]
+				[5] = 
+				{
+					CLSID	=	"{E8D4652F-FD48-45B7-BA5B-2AE05BB5A9CF}",
+				}, -- end of [5]
+				[7] = 
+				{
+					CLSID	=	"{E8D4652F-FD48-45B7-BA5B-2AE05BB5A9CF}",
+				}, -- end of [7]
+				[11] = 
+				{
+					CLSID	=	"{682A481F-0CB5-4693-A382-D00DD4A156D7}",
+				}, -- end of [11]
+			}, -- end of pylons
+			fuel	=	2129,
+			flare	=	128,
+			chaff	=	128,
+			gun	=	16,
+		}, -- end of payload
+		speed	=	8.0704128777143e-05,
+		goto	=	2,
+		N_obj	=	1,
+		country	=	80,
+	}, -- end of [31]
+} -- end of world_state
+mission_file_mark	=	1754533127
+mission_time	=	1948.801
+warehouses = 
+{
+	airports = 
+	{
+		[12] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [12]
+		[13] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [13]
+		[14] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [14]
+		[15] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [15]
+		[16] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [16]
+		[17] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [17]
+		[18] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [18]
+		[19] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [19]
+		[20] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [20]
+		[21] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [21]
+		[22] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [22]
+		[23] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [23]
+		[24] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [24]
+		[25] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [25]
+		[26] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [26]
+		[27] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [27]
+		[28] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [28]
+		[29] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [29]
+		[30] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [30]
+		[31] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [31]
+		[32] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [32]
+	}, -- end of airports
+	warehouses = 	{},
+} -- end of warehouses
+triggers_state = 
+{
+	WIN = 
+	{
+		time	=	334.401,
+		value	=	10,
+	}, -- end of WIN
+	WAR = 
+	{
+		time	=	18.001,
+		value	=	1,
+	}, -- end of WAR
+	LAND = 
+	{
+		time	=	1932.601,
+		value	=	1,
+	}, -- end of LAND
+	C51 = 
+	{
+		time	=	0.801,
+		value	=	1,
+	}, -- end of C51
+} -- end of triggers_state
+result	=	70
+events = 
+{
+	[1] = 
+	{
+		type	=	"mission start",
+		event_id	=	38,
+		t	=	0,
+		linked_event_id	=	0,
+		ta	=	27000,
+	}, -- end of [1]
+	[2] = 
+	{
+		initiator_unit_type	=	"Su-25T",
+		type	=	"under control",
+		initiator_object_id	=	16782848,
+		targetMissionID	=	"7",
+		target	=	"COLT 51 AIR",
+		t	=	0,
+		initiatorPilotName	=	"Lysergia",
+		initiator_coalition	=	2,
+	}, -- end of [2]
+	[3] = 
+	{
+		weapon_type	=	461061,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	164.88,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	73,
+		weapon	=	"FAB-500 M-62",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [3]
+	[4] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	73,
+		targetMissionID	=	"4",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Tu-95MS",
+		target_object_id	=	8000002,
+		targetPilotName	=	"Tu-95MS",
+		type	=	"hit",
+		target_unit_type	=	"Tu-95MS",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	75,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [4]
+	[5] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	75,
+		targetMissionID	=	"4",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Tu-95MS",
+		target_object_id	=	8000002,
+		targetPilotName	=	"Tu-95MS",
+		type	=	"kill",
+		target_unit_type	=	"Tu-95MS",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	77,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [5]
+	[6] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	174.14,
+		linked_event_id	=	77,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	78,
+		initiator_object_id	=	16782848,
+		amount	=	100,
+		comment	=	"general",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [6]
+	[7] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	73,
+		targetMissionID	=	"20",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"AM32a-60_02",
+		target_object_id	=	8000006,
+		targetPilotName	=	"AM32a-60_02",
+		type	=	"hit",
+		target_unit_type	=	"AM32a-60_02",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	80,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [7]
+	[8] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	80,
+		targetMissionID	=	"20",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"AM32a-60_02",
+		target_object_id	=	8000006,
+		targetPilotName	=	"AM32a-60_02",
+		type	=	"kill",
+		target_unit_type	=	"AM32a-60_02",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	82,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [8]
+	[9] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	174.14,
+		linked_event_id	=	82,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	83,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"general",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [9]
+	[10] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	73,
+		targetMissionID	=	"28",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"us carrier tech",
+		target_object_id	=	8000009,
+		targetPilotName	=	"us carrier tech",
+		type	=	"hit",
+		target_unit_type	=	"us carrier tech",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	85,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [10]
+	[11] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	73,
+		targetMissionID	=	"21",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Camouflage02",
+		target_object_id	=	8000007,
+		targetPilotName	=	"Camouflage02",
+		type	=	"hit",
+		target_unit_type	=	"Camouflage02",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	86,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [11]
+	[12] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	73,
+		targetMissionID	=	"19",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"CV_59_H60",
+		target_object_id	=	8000005,
+		targetPilotName	=	"CV_59_H60",
+		type	=	"hit",
+		target_unit_type	=	"CV_59_H60",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	87,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [12]
+	[13] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	73,
+		targetMissionID	=	"32",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"AM32a-60_02",
+		target_object_id	=	8000012,
+		targetPilotName	=	"AM32a-60_02",
+		type	=	"hit",
+		target_unit_type	=	"AM32a-60_02",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	88,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [13]
+	[14] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	73,
+		targetMissionID	=	"33",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"AM32a-60_02",
+		target_object_id	=	8000013,
+		targetPilotName	=	"AM32a-60_02",
+		type	=	"hit",
+		target_unit_type	=	"AM32a-60_02",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	89,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [14]
+	[15] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	73,
+		targetMissionID	=	"16",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16778240,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	90,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [15]
+	[16] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"16",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16778240,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	91,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [16]
+	[17] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	73,
+		targetMissionID	=	"9",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16780032,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	92,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [17]
+	[18] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	73,
+		targetMissionID	=	"11",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779520,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	93,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [18]
+	[19] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	73,
+		targetMissionID	=	"12",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779264,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	94,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [19]
+	[20] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"12",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779264,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	95,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [20]
+	[21] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	73,
+		targetMissionID	=	"17",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16777984,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	96,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [21]
+	[22] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"17",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16777984,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	97,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [22]
+	[23] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	73,
+		targetMissionID	=	"22",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"ATMZ-5",
+		target_object_id	=	16777472,
+		targetPilotName	=	"ATMZ-5",
+		type	=	"hit",
+		target_unit_type	=	"ATMZ-5",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	98,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [23]
+	[24] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"22",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"ATMZ-5",
+		target_object_id	=	16777472,
+		targetPilotName	=	"ATMZ-5",
+		type	=	"bda",
+		target_unit_type	=	"ATMZ-5",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	99,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [24]
+	[25] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	73,
+		targetMissionID	=	"18",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16777728,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	100,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [25]
+	[26] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"18",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16777728,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	101,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [26]
+	[27] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	73,
+		targetMissionID	=	"10",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779776,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	102,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [27]
+	[28] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"10",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779776,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	103,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [28]
+	[29] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	73,
+		targetMissionID	=	"13",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779008,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	104,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [29]
+	[30] = 
+	{
+		initiatorPilotName	=	"Tu-95MS",
+		target_coalition	=	-1,
+		linked_event_id	=	0,
+		targetMissionID	=	"21",
+		target_ws_type1	=	5,
+		initiator_object_id	=	8000002,
+		target	=	"Camouflage02",
+		target_object_id	=	8000007,
+		targetPilotName	=	"Camouflage02",
+		type	=	"hit",
+		target_unit_type	=	"Camouflage02",
+		t	=	174.14,
+		initiator_unit_type	=	"Tu-95MS",
+		event_id	=	105,
+		initiator_ws_type1	=	5,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	-1,
+	}, -- end of [30]
+	[31] = 
+	{
+		initiatorPilotName	=	"Tu-95MS",
+		target_coalition	=	-1,
+		linked_event_id	=	0,
+		targetMissionID	=	"19",
+		target_ws_type1	=	5,
+		initiator_object_id	=	8000002,
+		target	=	"CV_59_H60",
+		target_object_id	=	8000005,
+		targetPilotName	=	"CV_59_H60",
+		type	=	"hit",
+		target_unit_type	=	"CV_59_H60",
+		t	=	174.14,
+		initiator_unit_type	=	"Tu-95MS",
+		event_id	=	106,
+		initiator_ws_type1	=	5,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	-1,
+	}, -- end of [31]
+	[32] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	73,
+		targetMissionID	=	"21",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Camouflage02",
+		target_object_id	=	8000007,
+		targetPilotName	=	"Camouflage02",
+		type	=	"hit",
+		target_unit_type	=	"Camouflage02",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	107,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [32]
+	[33] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	73,
+		targetMissionID	=	"19",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"CV_59_H60",
+		target_object_id	=	8000005,
+		targetPilotName	=	"CV_59_H60",
+		type	=	"hit",
+		target_unit_type	=	"CV_59_H60",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	108,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [33]
+	[34] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"9",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16780032,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	109,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [34]
+	[35] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"11",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779520,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	110,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [35]
+	[36] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"13",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779008,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	174.14,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	111,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [36]
+	[37] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	93,
+		targetMissionID	=	"11",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779520,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	176.727,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	113,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [37]
+	[38] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	176.727,
+		linked_event_id	=	113,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	114,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [38]
+	[39] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	104,
+		targetMissionID	=	"13",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779008,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	176.728,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	117,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [39]
+	[40] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	176.728,
+		linked_event_id	=	117,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	118,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [40]
+	[41] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	102,
+		targetMissionID	=	"10",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779776,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	176.729,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	121,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [41]
+	[42] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	176.729,
+		linked_event_id	=	121,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	122,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [42]
+	[43] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	90,
+		targetMissionID	=	"16",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16778240,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	176.732,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	125,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [43]
+	[44] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	176.732,
+		linked_event_id	=	125,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	126,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [44]
+	[45] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	96,
+		targetMissionID	=	"17",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16777984,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	176.745,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	129,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [45]
+	[46] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	176.745,
+		linked_event_id	=	129,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	130,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [46]
+	[47] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	94,
+		targetMissionID	=	"12",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16779264,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	176.753,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	133,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [47]
+	[48] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	176.753,
+		linked_event_id	=	133,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	134,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [48]
+	[49] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	100,
+		targetMissionID	=	"18",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16777728,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	176.755,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	137,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [49]
+	[50] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	176.755,
+		linked_event_id	=	137,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	138,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [50]
+	[51] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	92,
+		targetMissionID	=	"9",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16780032,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	176.755,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	141,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [51]
+	[52] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	176.755,
+		linked_event_id	=	141,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	142,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [52]
+	[53] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	98,
+		targetMissionID	=	"22",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"ATMZ-5",
+		target_object_id	=	16777472,
+		targetPilotName	=	"ATMZ-5",
+		type	=	"kill",
+		target_unit_type	=	"ATMZ-5",
+		t	=	202.591,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	145,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [53]
+	[54] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	202.591,
+		linked_event_id	=	145,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	146,
+		initiator_object_id	=	16782848,
+		amount	=	3,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [54]
+	[55] = 
+	{
+		type	=	"takeoff",
+		initiatorPilotName	=	"Su-25T",
+		place	=	"Gelendzhik",
+		t	=	221.41,
+		placeDisplayName	=	"Gelendzhik",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16781312,
+		linked_event_id	=	0,
+		event_id	=	149,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"40",
+	}, -- end of [55]
+	[56] = 
+	{
+		type	=	"takeoff",
+		initiatorPilotName	=	"Su-25T",
+		place	=	"Gelendzhik",
+		t	=	258.36,
+		placeDisplayName	=	"Gelendzhik",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16781568,
+		linked_event_id	=	0,
+		event_id	=	151,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"41",
+	}, -- end of [56]
+	[57] = 
+	{
+		weapon_type	=	461061,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	321.3,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	152,
+		weapon	=	"FAB-500 M-62",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [57]
+	[58] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	152,
+		targetMissionID	=	"5",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Su-27",
+		target_object_id	=	8000003,
+		targetPilotName	=	"Su-27",
+		type	=	"hit",
+		target_unit_type	=	"Su-27",
+		t	=	334.26,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	155,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [58]
+	[59] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	334.26,
+		linked_event_id	=	157,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	158,
+		initiator_object_id	=	16782848,
+		amount	=	0,
+		comment	=	"general",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [59]
+	[60] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	401.895,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	160,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [60]
+	[61] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	401.895,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	161,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [61]
+	[62] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	401.96,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	162,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [62]
+	[63] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	401.96,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	163,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [63]
+	[64] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.02,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	164,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [64]
+	[65] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.02,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	165,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [65]
+	[66] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.08,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	166,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [66]
+	[67] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.08,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	167,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [67]
+	[68] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.14,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	168,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [68]
+	[69] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.14,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	169,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [69]
+	[70] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.2,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	170,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [70]
+	[71] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.2,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	171,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [71]
+	[72] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.26,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	172,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [72]
+	[73] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.26,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	173,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [73]
+	[74] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.32,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	174,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [74]
+	[75] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.32,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	175,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [75]
+	[76] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.38,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	176,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [76]
+	[77] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.38,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	177,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [77]
+	[78] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.552,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	178,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [78]
+	[79] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.552,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	179,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [79]
+	[80] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.62,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	180,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [80]
+	[81] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.62,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	181,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [81]
+	[82] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.68,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	182,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [82]
+	[83] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.68,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	183,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [83]
+	[84] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.74,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	184,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [84]
+	[85] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.74,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	185,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [85]
+	[86] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.8,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	186,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [86]
+	[87] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.8,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	187,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [87]
+	[88] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.86,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	188,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [88]
+	[89] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.86,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	189,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [89]
+	[90] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.92,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	190,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [90]
+	[91] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.92,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	191,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [91]
+	[92] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.98,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	192,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [92]
+	[93] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	402.98,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	193,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [93]
+	[94] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.04,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	194,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [94]
+	[95] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.04,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	195,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [95]
+	[96] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.1,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	196,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [96]
+	[97] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.1,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	197,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [97]
+	[98] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.16,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	198,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [98]
+	[99] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.16,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	199,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [99]
+	[100] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.22,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	200,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [100]
+	[101] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.22,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	201,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [101]
+	[102] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.3,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	202,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [102]
+	[103] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.3,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	203,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [103]
+	[104] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.36,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	204,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [104]
+	[105] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.36,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	205,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [105]
+	[106] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.42,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	206,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [106]
+	[107] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.42,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	207,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [107]
+	[108] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.48,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	208,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [108]
+	[109] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.48,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	209,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [109]
+	[110] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.54,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	210,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [110]
+	[111] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.54,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	211,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [111]
+	[112] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.6,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	212,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [112]
+	[113] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	403.6,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	213,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [113]
+	[114] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.457,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	214,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [114]
+	[115] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.457,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	215,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [115]
+	[116] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.52,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	216,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [116]
+	[117] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.52,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	217,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [117]
+	[118] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.58,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	218,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [118]
+	[119] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.58,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	219,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [119]
+	[120] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.66,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	220,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [120]
+	[121] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.66,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	221,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [121]
+	[122] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.72,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	222,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [122]
+	[123] = 
+	{
+		weapon_type	=	2040071,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	541.72,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	223,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [123]
+	[124] = 
+	{
+		weapon_type	=	2040071,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	218,
+		targetMissionID	=	"3",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Su-27",
+		target_object_id	=	8000001,
+		targetPilotName	=	"Su-27",
+		type	=	"hit",
+		target_unit_type	=	"Su-27",
+		t	=	547.44,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	224,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [124]
+	[125] = 
+	{
+		weapon_type	=	2040071,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	218,
+		targetMissionID	=	"5",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Su-27",
+		target_object_id	=	8000003,
+		targetPilotName	=	"Su-27",
+		type	=	"hit",
+		target_unit_type	=	"Su-27",
+		t	=	547.44,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	225,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [125]
+	[126] = 
+	{
+		weapon_type	=	2040071,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	219,
+		targetMissionID	=	"5",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Su-27",
+		target_object_id	=	8000003,
+		targetPilotName	=	"Su-27",
+		type	=	"hit",
+		target_unit_type	=	"Su-27",
+		t	=	547.53,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	226,
+		weapon	=	"S-5KO HEAT/Frag",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [126]
+	[127] = 
+	{
+		weapon_type	=	461061,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	548.84,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	227,
+		weapon	=	"FAB-500 M-62",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [127]
+	[128] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	227,
+		targetMissionID	=	"3",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Su-27",
+		target_object_id	=	8000001,
+		targetPilotName	=	"Su-27",
+		type	=	"hit",
+		target_unit_type	=	"Su-27",
+		t	=	554.92,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	229,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [128]
+	[129] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	227,
+		targetMissionID	=	"5",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Su-27",
+		target_object_id	=	8000003,
+		targetPilotName	=	"Su-27",
+		type	=	"hit",
+		target_unit_type	=	"Su-27",
+		t	=	554.92,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	230,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [129]
+	[130] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	227,
+		targetMissionID	=	"14",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16778752,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	554.92,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	231,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [130]
+	[131] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"14",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16778752,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	554.92,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	232,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [131]
+	[132] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	227,
+		targetMissionID	=	"15",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16778496,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"hit",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	554.92,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	233,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [132]
+	[133] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"15",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16778496,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"bda",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	554.92,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	234,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [133]
+	[134] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	233,
+		targetMissionID	=	"15",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16778496,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	557.519,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	237,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [134]
+	[135] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	557.519,
+		linked_event_id	=	237,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	238,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [135]
+	[136] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	231,
+		targetMissionID	=	"14",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16782848,
+		target	=	"Infantry AK ver2",
+		target_object_id	=	16778752,
+		targetPilotName	=	"Infantry AK ver2",
+		type	=	"kill",
+		target_unit_type	=	"Infantry AK ver2",
+		t	=	557.527,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	241,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [136]
+	[137] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	557.527,
+		linked_event_id	=	241,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	242,
+		initiator_object_id	=	16782848,
+		amount	=	1,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [137]
+	[138] = 
+	{
+		weapon_type	=	461061,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	647.38,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	244,
+		weapon	=	"FAB-500 M-62",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [138]
+	[139] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	244,
+		targetMissionID	=	"3",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Su-27",
+		target_object_id	=	8000001,
+		targetPilotName	=	"Su-27",
+		type	=	"hit",
+		target_unit_type	=	"Su-27",
+		t	=	653.62,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	247,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [139]
+	[140] = 
+	{
+		weapon_type	=	461061,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	-1,
+		linked_event_id	=	244,
+		targetMissionID	=	"5",
+		target_ws_type1	=	5,
+		initiator_object_id	=	16782848,
+		target	=	"Su-27",
+		target_object_id	=	8000003,
+		targetPilotName	=	"Su-27",
+		type	=	"hit",
+		target_unit_type	=	"Su-27",
+		t	=	653.62,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	248,
+		weapon	=	"FAB-500 M-62",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+		initiator_coalition	=	2,
+	}, -- end of [140]
+	[141] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	998.98,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	251,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [141]
+	[142] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	999.28,
+		linked_event_id	=	0,
+		event_id	=	252,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	12,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	12,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [142]
+	[143] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	999.72,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	253,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [143]
+	[144] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	999.97,
+		linked_event_id	=	0,
+		event_id	=	254,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	10,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	10,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [144]
+	[145] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1001.5,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	255,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [145]
+	[146] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1001.75,
+		linked_event_id	=	0,
+		event_id	=	256,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	10,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	10,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [146]
+	[147] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1002,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	257,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [147]
+	[148] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1002.35,
+		linked_event_id	=	0,
+		event_id	=	258,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	14,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	14,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [148]
+	[149] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1003.919,
+		linked_event_id	=	264,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	265,
+		initiator_object_id	=	16782848,
+		amount	=	0,
+		comment	=	"general",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [149]
+	[150] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1005.1,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	267,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [150]
+	[151] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1005.425,
+		linked_event_id	=	0,
+		event_id	=	268,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	13,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	13,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [151]
+	[152] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1005.72,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	269,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [152]
+	[153] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1006.02,
+		linked_event_id	=	0,
+		event_id	=	270,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	12,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	12,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [153]
+	[154] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1007.1,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	271,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [154]
+	[155] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1007.4,
+		linked_event_id	=	0,
+		event_id	=	272,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	12,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	12,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [155]
+	[156] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1007.7,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	273,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [156]
+	[157] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1008.325,
+		linked_event_id	=	0,
+		event_id	=	274,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	25,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	25,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [157]
+	[158] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1008.81,
+		linked_event_id	=	280,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	281,
+		initiator_object_id	=	16782848,
+		amount	=	0,
+		comment	=	"general",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [158]
+	[159] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1008.84,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	284,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [159]
+	[160] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1008.99,
+		linked_event_id	=	0,
+		event_id	=	285,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	6,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	6,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [160]
+	[161] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1010.82,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	286,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [161]
+	[162] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1011.445,
+		linked_event_id	=	0,
+		event_id	=	287,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	25,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	25,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [162]
+	[163] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1102.24,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	288,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [163]
+	[164] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1102.49,
+		linked_event_id	=	0,
+		event_id	=	289,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	10,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	10,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [164]
+	[165] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1104.54,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	290,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [165]
+	[166] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1104.79,
+		linked_event_id	=	0,
+		event_id	=	291,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	10,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	10,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [166]
+	[167] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1106,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	292,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [167]
+	[168] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1106.625,
+		linked_event_id	=	0,
+		event_id	=	293,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	25,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	25,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [168]
+	[169] = 
+	{
+		type	=	"start shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1107.74,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16782848,
+		event_id	=	294,
+		weapon	=	"GSh-30-2",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [169]
+	[170] = 
+	{
+		weapon_type	=	2566,
+		type	=	"end shooting",
+		initiatorPilotName	=	"Lysergia",
+		t	=	1108.34,
+		linked_event_id	=	0,
+		event_id	=	295,
+		initiator_unit_type	=	"Su-25T",
+		uin64_t_value	=	24,
+		initiator_object_id	=	16782848,
+		weapon	=	"GSh-30-2",
+		ammo_consumption	=	24,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [170]
+	[171] = 
+	{
+		type	=	"land",
+		initiatorPilotName	=	"Lysergia",
+		place	=	"Gelendzhik",
+		t	=	1795.82,
+		placeDisplayName	=	"Gelendzhik",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16782848,
+		linked_event_id	=	0,
+		event_id	=	299,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"7",
+	}, -- end of [171]
+	[172] = 
+	{
+		type	=	"mission end",
+		comment	=	"winner: , msg: ",
+		t	=	1948.801,
+		linked_event_id	=	0,
+		event_id	=	301,
+	}, -- end of [172]
+} -- end of events

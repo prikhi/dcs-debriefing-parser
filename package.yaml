@@ -1,13 +1,13 @@
 ---
 
 name:
-    dcs-briefing-parser
+    dcs-debriefing-parser
 version:
     0.1.0.0
 github:
-    prikhi/dcs-briefing-parser
+    prikhi/dcs-debriefing-parser
 homepage:
-    https://github.com/prikhi/dcs-briefing-parser#readme
+    https://github.com/prikhi/dcs-debriefing-parser#readme
 license:
     BSD3
 license-file:
@@ -34,7 +34,7 @@ description: |
     Maybe include a simple usage example.
 
 
-language: GHC2021
+language: GHC2024
 
 ghc-options:
     - -Wall
@@ -69,10 +69,15 @@ library:
     source-dirs:
         src
     dependencies:
-        []
+        - megaparsec
+        - text
+        - unordered-containers
+        - scientific
+        - time
+        - containers
 
 executables:
-    dcs-briefing-parser:
+    dcs-debriefing-parser:
         source-dirs:
             app
         main:
@@ -82,10 +87,10 @@ executables:
             - -rtsopts
             - -with-rtsopts "-N -T"
         dependencies:
-            - dcs-briefing-parser
+            - dcs-debriefing-parser
 
 tests:
-    dcs-briefing-parser-test:
+    dcs-debriefing-parser-test:
         main: Spec.hs
         source-dirs:
             tests
@@ -95,7 +100,7 @@ tests:
             - -with-rtsopts "-N -T"
             - -Wno-unused-packages
         dependencies:
-            - dcs-briefing-parser
+            - dcs-debriefing-parser
             - hedgehog
             - tasty
             - tasty-hedgehog

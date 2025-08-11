@@ -1,0 +1,2368 @@
+mission_file_path	=	".\\Mods\\aircraft\\Su-25T\\Missions\\Single\\Su-25T - Command post strike.miz"
+callsign	=	"Lysergia"
+world_state = 
+{
+	[1] = 
+	{
+		coalition	=	"red",
+		type	=	"Su-25T",
+		heading	=	5.6723199526416,
+		unitId	=	40,
+		alt	=	432.04638671875,
+		y	=	760271.8125,
+		x	=	-125461.765625,
+		country	=	0,
+	}, -- end of [1]
+	[2] = 
+	{
+		coalition	=	"red",
+		type	=	"Su-25T",
+		heading	=	5.6723199526416,
+		unitId	=	41,
+		alt	=	432.04635620117,
+		y	=	760321.0625,
+		x	=	-125427.828125,
+		country	=	0,
+	}, -- end of [2]
+	[3] = 
+	{
+		coalition	=	"red",
+		type	=	"Su-25T",
+		heading	=	5.6723199526416,
+		unitId	=	42,
+		alt	=	432.04635620117,
+		y	=	760370.3125,
+		x	=	-125393.8984375,
+		country	=	0,
+	}, -- end of [3]
+	[4] = 
+	{
+		coalition	=	"red",
+		type	=	"An-26B",
+		heading	=	5.6897735635387,
+		unitId	=	44,
+		alt	=	432.68890380859,
+		y	=	760766.625,
+		x	=	-125123.3828125,
+		country	=	0,
+	}, -- end of [4]
+	[5] = 
+	{
+		coalition	=	"blue",
+		type	=	".Command Center",
+		heading	=	3.0543261210071,
+		unitId	=	1,
+		alt	=	115.95494842529,
+		y	=	695299.875,
+		x	=	-275225.03125,
+		country	=	16,
+	}, -- end of [5]
+	[6] = 
+	{
+		coalition	=	"blue",
+		type	=	".Ammunition depot",
+		heading	=	4.7123889366733,
+		unitId	=	2,
+		alt	=	111.19746398926,
+		y	=	694181.25,
+		x	=	-275327.71875,
+		country	=	16,
+	}, -- end of [6]
+	[7] = 
+	{
+		coalition	=	"blue",
+		type	=	".Ammunition depot",
+		heading	=	4.7123889366733,
+		unitId	=	3,
+		alt	=	111.78379058838,
+		y	=	694298.0625,
+		x	=	-275326.875,
+		country	=	16,
+	}, -- end of [7]
+	[8] = 
+	{
+		coalition	=	"blue",
+		type	=	".Ammunition depot",
+		heading	=	4.7123889366733,
+		unitId	=	4,
+		alt	=	112.37938690186,
+		y	=	694416.5625,
+		x	=	-275325.15625,
+		country	=	16,
+	}, -- end of [8]
+	[9] = 
+	{
+		coalition	=	"blue",
+		type	=	"An-26B",
+		heading	=	6.0737457017051,
+		unitId	=	5,
+		alt	=	112.68858337402,
+		y	=	695043.4375,
+		x	=	-275886.84375,
+		country	=	16,
+	}, -- end of [9]
+	[10] = 
+	{
+		coalition	=	"blue",
+		type	=	"An-26B",
+		heading	=	6.0737457017051,
+		unitId	=	6,
+		alt	=	112.68859100342,
+		y	=	694989.5,
+		x	=	-275898.8125,
+		country	=	16,
+	}, -- end of [10]
+	[11] = 
+	{
+		coalition	=	"blue",
+		type	=	".Command Center",
+		heading	=	3.0543261210071,
+		unitId	=	48,
+		alt	=	115.88205718994,
+		y	=	695103.25,
+		x	=	-275161.53125,
+		country	=	16,
+	}, -- end of [11]
+	[12] = 
+	{
+		alt	=	4538.3823242188,
+		type	=	"Su-34",
+		groupId	=	14,
+		heading	=	6.228346631174,
+		y	=	724162.4375,
+		goto	=	3,
+		coalition	=	"red",
+		x	=	-218633.546875,
+		speed	=	180.55555725098,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82F}",
+				}, -- end of [1]
+				[2] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [2]
+				[4] = 
+				{
+					CLSID	=	"{B5CA9846-776E-4230-B4FD-8BCC9BFB1676}",
+				}, -- end of [4]
+				[5] = 
+				{
+					CLSID	=	"{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}",
+				}, -- end of [5]
+				[6] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [6]
+				[7] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}",
+				}, -- end of [8]
+				[11] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [11]
+				[9] = 
+				{
+					CLSID	=	"{B5CA9846-776E-4230-B4FD-8BCC9BFB1676}",
+				}, -- end of [9]
+				[12] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82A}",
+				}, -- end of [12]
+			}, -- end of pylons
+			fuel	=	7899,
+			flare	=	64,
+			chaff	=	64,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	1,
+		inAir	=	true,
+		unitId	=	29,
+		country	=	0,
+	}, -- end of [12]
+	[13] = 
+	{
+		alt	=	4536.548828125,
+		type	=	"Su-34",
+		groupId	=	14,
+		heading	=	0.012227837239401,
+		y	=	725169.25,
+		goto	=	3,
+		coalition	=	"red",
+		x	=	-220212.515625,
+		speed	=	206.00682067871,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82F}",
+				}, -- end of [1]
+				[2] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [2]
+				[4] = 
+				{
+					CLSID	=	"{B5CA9846-776E-4230-B4FD-8BCC9BFB1676}",
+				}, -- end of [4]
+				[5] = 
+				{
+					CLSID	=	"{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}",
+				}, -- end of [5]
+				[6] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [6]
+				[7] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}",
+				}, -- end of [8]
+				[11] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [11]
+				[9] = 
+				{
+					CLSID	=	"{B5CA9846-776E-4230-B4FD-8BCC9BFB1676}",
+				}, -- end of [9]
+				[12] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82A}",
+				}, -- end of [12]
+			}, -- end of pylons
+			fuel	=	7113,
+			flare	=	64,
+			chaff	=	64,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	2,
+		inAir	=	true,
+		unitId	=	30,
+		country	=	0,
+	}, -- end of [13]
+	[14] = 
+	{
+		alt	=	4535.9638671875,
+		type	=	"Su-34",
+		groupId	=	14,
+		heading	=	0.20233899751772,
+		y	=	725108.125,
+		goto	=	3,
+		coalition	=	"red",
+		x	=	-222232.328125,
+		speed	=	218.18531799316,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82F}",
+				}, -- end of [1]
+				[2] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [2]
+				[3] = 
+				{
+					CLSID	=	"{B5CA9846-776E-4230-B4FD-8BCC9BFB1676}",
+				}, -- end of [3]
+				[4] = 
+				{
+					CLSID	=	"{B5CA9846-776E-4230-B4FD-8BCC9BFB1676}",
+				}, -- end of [4]
+				[5] = 
+				{
+					CLSID	=	"{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}",
+				}, -- end of [5]
+				[6] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [6]
+				[7] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}",
+				}, -- end of [8]
+				[9] = 
+				{
+					CLSID	=	"{B5CA9846-776E-4230-B4FD-8BCC9BFB1676}",
+				}, -- end of [9]
+				[10] = 
+				{
+					CLSID	=	"{B5CA9846-776E-4230-B4FD-8BCC9BFB1676}",
+				}, -- end of [10]
+				[11] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [11]
+				[12] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82A}",
+				}, -- end of [12]
+			}, -- end of pylons
+			fuel	=	7535,
+			flare	=	64,
+			chaff	=	64,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	3,
+		inAir	=	true,
+		unitId	=	78,
+		country	=	0,
+	}, -- end of [14]
+	[15] = 
+	{
+		alt	=	431.97528076172,
+		type	=	"Su-25T",
+		groupId	=	16,
+		heading	=	4.1432402769672,
+		y	=	760395.1875,
+		coalition	=	"red",
+		x	=	-125385.140625,
+		unitId	=	34,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82D}",
+				}, -- end of [1]
+				[2] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [2]
+				[3] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [3]
+				[4] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [4]
+				[5] = 
+				{
+					CLSID	=	"{0180F983-C14A-11d8-9897-000476191836}",
+				}, -- end of [5]
+				[6] = 
+				{
+					CLSID	=	"{0519A264-0AB6-11d6-9193-00A0249B6F00}",
+				}, -- end of [6]
+				[7] = 
+				{
+					CLSID	=	"{0180F983-C14A-11d8-9897-000476191836}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [8]
+				[9] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [9]
+				[10] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [10]
+				[11] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82C}",
+				}, -- end of [11]
+			}, -- end of pylons
+			fuel	=	2981,
+			flare	=	128,
+			chaff	=	128,
+			gun	=	100,
+		}, -- end of payload
+		speed	=	0,
+		goto	=	1,
+		N_obj	=	1,
+		country	=	0,
+	}, -- end of [15]
+	[16] = 
+	{
+		alt	=	431.97528076172,
+		type	=	"Su-25T",
+		groupId	=	16,
+		heading	=	4.1099713484394,
+		y	=	760441.1875,
+		coalition	=	"red",
+		x	=	-125353.0703125,
+		unitId	=	35,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82D}",
+				}, -- end of [1]
+				[2] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [2]
+				[3] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [3]
+				[4] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [4]
+				[5] = 
+				{
+					CLSID	=	"{0180F983-C14A-11d8-9897-000476191836}",
+				}, -- end of [5]
+				[6] = 
+				{
+					CLSID	=	"{0519A264-0AB6-11d6-9193-00A0249B6F00}",
+				}, -- end of [6]
+				[7] = 
+				{
+					CLSID	=	"{0180F983-C14A-11d8-9897-000476191836}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [8]
+				[9] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [9]
+				[10] = 
+				{
+					CLSID	=	"{35B698AC-9FEF-4EC4-AD29-484A0085F62B}",
+				}, -- end of [10]
+				[11] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82C}",
+				}, -- end of [11]
+			}, -- end of pylons
+			fuel	=	2969,
+			flare	=	128,
+			chaff	=	128,
+			gun	=	100,
+		}, -- end of payload
+		speed	=	0,
+		goto	=	1,
+		N_obj	=	2,
+		country	=	0,
+	}, -- end of [16]
+	[17] = 
+	{
+		alt	=	4871.2612304688,
+		type	=	"Su-27",
+		groupId	=	17,
+		heading	=	2.0496733824359,
+		y	=	702481.75,
+		goto	=	8,
+		coalition	=	"red",
+		x	=	-235780.265625,
+		speed	=	180.55555725098,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82F}",
+				}, -- end of [1]
+				[2] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [2]
+				[3] = 
+				{
+					CLSID	=	"{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}",
+				}, -- end of [3]
+				[5] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [5]
+				[6] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [6]
+				[7] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}",
+				}, -- end of [8]
+				[9] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [9]
+				[10] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82A}",
+				}, -- end of [10]
+			}, -- end of pylons
+			fuel	=	7693,
+			flare	=	96,
+			chaff	=	96,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	1,
+		inAir	=	true,
+		unitId	=	36,
+		country	=	0,
+	}, -- end of [17]
+	[18] = 
+	{
+		alt	=	4979.3759765625,
+		type	=	"Su-27",
+		groupId	=	17,
+		heading	=	3.0499590078937,
+		y	=	701214.25,
+		goto	=	8,
+		coalition	=	"red",
+		x	=	-234538.90625,
+		speed	=	186.31512451172,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82F}",
+				}, -- end of [1]
+				[2] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [2]
+				[3] = 
+				{
+					CLSID	=	"{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}",
+				}, -- end of [3]
+				[5] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [5]
+				[6] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [6]
+				[8] = 
+				{
+					CLSID	=	"{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}",
+				}, -- end of [8]
+				[9] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [9]
+				[10] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82A}",
+				}, -- end of [10]
+			}, -- end of pylons
+			fuel	=	6830,
+			flare	=	96,
+			chaff	=	96,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	2,
+		inAir	=	true,
+		unitId	=	37,
+		country	=	0,
+	}, -- end of [18]
+	[19] = 
+	{
+		alt	=	7000.001953125,
+		type	=	"A-50",
+		groupId	=	24,
+		heading	=	4.7797092835056,
+		y	=	713401.875,
+		goto	=	2,
+		coalition	=	"red",
+		x	=	-91035.3515625,
+		speed	=	222.22222900391,
+		payload = 
+		{
+			pylons = 	{},
+			fuel	=	63698,
+			flare	=	192,
+			chaff	=	192,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	1,
+		inAir	=	true,
+		unitId	=	45,
+		country	=	0,
+	}, -- end of [19]
+	[20] = 
+	{
+		alt	=	6499.8681640625,
+		type	=	"Su-27",
+		groupId	=	25,
+		heading	=	4.7797073761569,
+		y	=	713602,
+		goto	=	1,
+		coalition	=	"red",
+		x	=	-91048.84375,
+		speed	=	222.20956420898,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82F}",
+				}, -- end of [1]
+				[2] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [2]
+				[3] = 
+				{
+					CLSID	=	"{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}",
+				}, -- end of [3]
+				[4] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [4]
+				[5] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [5]
+				[6] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [6]
+				[7] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}",
+				}, -- end of [8]
+				[9] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [9]
+				[10] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82A}",
+				}, -- end of [10]
+			}, -- end of pylons
+			fuel	=	8461,
+			flare	=	96,
+			chaff	=	96,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	1,
+		inAir	=	true,
+		unitId	=	46,
+		country	=	0,
+	}, -- end of [20]
+	[21] = 
+	{
+		alt	=	6501.5903320313,
+		type	=	"Su-27",
+		groupId	=	25,
+		heading	=	4.7797054688083,
+		y	=	714280,
+		goto	=	1,
+		coalition	=	"red",
+		x	=	-90038.53125,
+		speed	=	222.23356628418,
+		payload = 
+		{
+			pylons = 
+			{
+				[1] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82F}",
+				}, -- end of [1]
+				[2] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [2]
+				[3] = 
+				{
+					CLSID	=	"{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}",
+				}, -- end of [3]
+				[4] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [4]
+				[5] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [5]
+				[6] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [6]
+				[7] = 
+				{
+					CLSID	=	"{E8069896-8435-4B90-95C0-01A03AE6E400}",
+				}, -- end of [7]
+				[8] = 
+				{
+					CLSID	=	"{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}",
+				}, -- end of [8]
+				[9] = 
+				{
+					CLSID	=	"{FBC29BFE-3D24-4C64-B81D-941239D12249}",
+				}, -- end of [9]
+				[10] = 
+				{
+					CLSID	=	"{44EE8698-89F9-48EE-AF36-5FD31896A82A}",
+				}, -- end of [10]
+			}, -- end of pylons
+			fuel	=	8349,
+			flare	=	96,
+			chaff	=	96,
+			gun	=	100,
+		}, -- end of payload
+		N_obj	=	2,
+		inAir	=	true,
+		unitId	=	47,
+		country	=	0,
+	}, -- end of [21]
+	[22] = 
+	{
+		alt	=	430.0114440918,
+		type	=	"Ural-4320 APA-5D",
+		groupId	=	22,
+		coalition	=	"red",
+		x	=	-125404.8671875,
+		heading	=	5.672319893037,
+		y	=	760358.5625,
+		speed	=	0,
+		unitId	=	43,
+		N_obj	=	1,
+		country	=	0,
+	}, -- end of [22]
+	[23] = 
+	{
+		alt	=	366.9328918457,
+		type	=	"S-300PS 40B6MD sr",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124311.6328125,
+		heading	=	6.2831853071778,
+		y	=	768136.875,
+		speed	=	0,
+		unitId	=	49,
+		N_obj	=	1,
+		country	=	0,
+	}, -- end of [23]
+	[24] = 
+	{
+		alt	=	367.85342407227,
+		type	=	"S-300PS 64H6E sr",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124398.5078125,
+		heading	=	6.2831853071796,
+		y	=	768082.625,
+		speed	=	0,
+		unitId	=	50,
+		N_obj	=	2,
+		country	=	0,
+	}, -- end of [24]
+	[25] = 
+	{
+		alt	=	367.1591796875,
+		type	=	"S-300PS 40B6M tr",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124392.4375,
+		heading	=	6.2831853071778,
+		y	=	768213.4375,
+		speed	=	0,
+		unitId	=	51,
+		N_obj	=	3,
+		country	=	0,
+	}, -- end of [25]
+	[26] = 
+	{
+		alt	=	367.3671875,
+		type	=	"S-300PS 54K6 cp",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124382.875,
+		heading	=	6.2831853071778,
+		y	=	768146,
+		speed	=	0,
+		unitId	=	52,
+		N_obj	=	4,
+		country	=	0,
+	}, -- end of [26]
+	[27] = 
+	{
+		alt	=	369.95901489258,
+		type	=	"S-300PS 5P85D ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124436.640625,
+		heading	=	6.2831853071796,
+		y	=	767832.75,
+		speed	=	0,
+		unitId	=	53,
+		N_obj	=	5,
+		country	=	0,
+	}, -- end of [27]
+	[28] = 
+	{
+		alt	=	370.55868530273,
+		type	=	"S-300PS 5P85D ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124576.8515625,
+		heading	=	6.2831853071796,
+		y	=	767897.4375,
+		speed	=	0,
+		unitId	=	54,
+		N_obj	=	6,
+		country	=	0,
+	}, -- end of [28]
+	[29] = 
+	{
+		alt	=	369.55252075195,
+		type	=	"S-300PS 5P85D ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124642.9140625,
+		heading	=	6.2831853071796,
+		y	=	768115.75,
+		speed	=	0,
+		unitId	=	55,
+		N_obj	=	7,
+		country	=	0,
+	}, -- end of [29]
+	[30] = 
+	{
+		alt	=	367.45034790039,
+		type	=	"S-300PS 5P85D ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124546.015625,
+		heading	=	6.2831853071796,
+		y	=	768350.625,
+		speed	=	0,
+		unitId	=	56,
+		N_obj	=	8,
+		country	=	0,
+	}, -- end of [30]
+	[31] = 
+	{
+		alt	=	365.5964050293,
+		type	=	"S-300PS 5P85D ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124379.4765625,
+		heading	=	6.2831853071796,
+		y	=	768473.3125,
+		speed	=	0,
+		unitId	=	57,
+		N_obj	=	9,
+		country	=	0,
+	}, -- end of [31]
+	[32] = 
+	{
+		alt	=	365.466796875,
+		type	=	"S-300PS 5P85C ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124376.8984375,
+		heading	=	6.2831853071796,
+		y	=	768493.25,
+		speed	=	0,
+		unitId	=	59,
+		N_obj	=	10,
+		country	=	0,
+	}, -- end of [32]
+	[33] = 
+	{
+		alt	=	367.32870483398,
+		type	=	"S-300PS 5P85C ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124543.234375,
+		heading	=	6.2831853071796,
+		y	=	768372.1875,
+		speed	=	0,
+		unitId	=	60,
+		N_obj	=	11,
+		country	=	0,
+	}, -- end of [33]
+	[34] = 
+	{
+		alt	=	369.38891601563,
+		type	=	"S-300PS 5P85C ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124640.296875,
+		heading	=	6.2831853071796,
+		y	=	768135.9375,
+		speed	=	0,
+		unitId	=	61,
+		N_obj	=	12,
+		country	=	0,
+	}, -- end of [34]
+	[35] = 
+	{
+		alt	=	370.41198730469,
+		type	=	"S-300PS 5P85C ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124574.625,
+		heading	=	6.2831853071796,
+		y	=	767914.6875,
+		speed	=	0,
+		unitId	=	62,
+		N_obj	=	13,
+		country	=	0,
+	}, -- end of [35]
+	[36] = 
+	{
+		alt	=	369.75747680664,
+		type	=	"S-300PS 5P85C ln",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124433.3671875,
+		heading	=	6.2831853071796,
+		y	=	767854,
+		speed	=	0,
+		unitId	=	63,
+		N_obj	=	14,
+		country	=	0,
+	}, -- end of [36]
+	[37] = 
+	{
+		alt	=	367.60244750977,
+		type	=	"55G6 EWR",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124254.4140625,
+		heading	=	6.2831853071796,
+		y	=	767920.1875,
+		speed	=	0,
+		unitId	=	64,
+		N_obj	=	15,
+		country	=	0,
+	}, -- end of [37]
+	[38] = 
+	{
+		alt	=	366.92041015625,
+		type	=	"ZIL-131 KUNG",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124219.9375,
+		heading	=	6.2831853071778,
+		y	=	767989.25,
+		speed	=	0,
+		unitId	=	65,
+		N_obj	=	16,
+		country	=	0,
+	}, -- end of [38]
+	[39] = 
+	{
+		alt	=	366.88598632813,
+		type	=	"ZIL-131 KUNG",
+		groupId	=	27,
+		coalition	=	"red",
+		x	=	-124219.8984375,
+		heading	=	6.2831853071778,
+		y	=	767997.75,
+		speed	=	0,
+		unitId	=	66,
+		N_obj	=	17,
+		country	=	0,
+	}, -- end of [39]
+	[40] = 
+	{
+		alt	=	430.0114440918,
+		type	=	"ATMZ-5",
+		groupId	=	29,
+		coalition	=	"red",
+		x	=	-125027.7109375,
+		heading	=	5.550147060548,
+		y	=	760901.4375,
+		speed	=	0,
+		unitId	=	79,
+		N_obj	=	1,
+		country	=	0,
+	}, -- end of [40]
+	[41] = 
+	{
+		alt	=	430.0114440918,
+		type	=	"ZiL-131 APA-80",
+		groupId	=	30,
+		coalition	=	"red",
+		x	=	-125009.140625,
+		heading	=	5.550147060548,
+		y	=	760931.4375,
+		speed	=	0,
+		unitId	=	80,
+		N_obj	=	1,
+		country	=	0,
+	}, -- end of [41]
+	[42] = 
+	{
+		alt	=	430.0114440918,
+		type	=	"Ural-375",
+		groupId	=	31,
+		coalition	=	"red",
+		x	=	-124987.140625,
+		heading	=	5.550147060548,
+		y	=	760962.875,
+		speed	=	0,
+		unitId	=	81,
+		N_obj	=	1,
+		country	=	0,
+	}, -- end of [42]
+	[43] = 
+	{
+		alt	=	113.19716644287,
+		type	=	"SA-11 Buk LN 9A310M1",
+		groupId	=	7,
+		coalition	=	"blue",
+		x	=	-275004.71875,
+		heading	=	-1.7484556025238e-07,
+		y	=	693869.875,
+		speed	=	0,
+		unitId	=	8,
+		N_obj	=	1,
+		country	=	16,
+	}, -- end of [43]
+	[44] = 
+	{
+		alt	=	114.13059234619,
+		type	=	"SA-11 Buk LN 9A310M1",
+		groupId	=	7,
+		coalition	=	"blue",
+		x	=	-274990.09375,
+		heading	=	6.2831853071796,
+		y	=	694034.9375,
+		speed	=	0,
+		unitId	=	9,
+		N_obj	=	2,
+		country	=	16,
+	}, -- end of [44]
+	[45] = 
+	{
+		alt	=	110.93581390381,
+		type	=	"SA-11 Buk LN 9A310M1",
+		groupId	=	7,
+		coalition	=	"blue",
+		x	=	-275207.15625,
+		heading	=	6.2831853071796,
+		y	=	693979.125,
+		speed	=	0,
+		unitId	=	10,
+		N_obj	=	3,
+		country	=	16,
+	}, -- end of [45]
+	[46] = 
+	{
+		alt	=	112.07739257813,
+		type	=	"SA-11 Buk CC 9S470M1",
+		groupId	=	7,
+		coalition	=	"blue",
+		x	=	-275119.875,
+		heading	=	-1.7484556025238e-07,
+		y	=	693969.4375,
+		speed	=	0,
+		unitId	=	11,
+		N_obj	=	4,
+		country	=	16,
+	}, -- end of [46]
+	[47] = 
+	{
+		alt	=	117.33431243896,
+		type	=	"Strela-10M3",
+		groupId	=	8,
+		coalition	=	"blue",
+		x	=	-275174.6875,
+		heading	=	6.2831853071796,
+		y	=	695430.4375,
+		speed	=	0,
+		unitId	=	14,
+		N_obj	=	1,
+		country	=	16,
+	}, -- end of [47]
+	[48] = 
+	{
+		alt	=	112.61572265625,
+		type	=	"Strela-10M3",
+		groupId	=	8,
+		coalition	=	"blue",
+		x	=	-275423.8125,
+		heading	=	6.2831853071796,
+		y	=	695209.5625,
+		speed	=	0,
+		unitId	=	15,
+		N_obj	=	2,
+		country	=	16,
+	}, -- end of [48]
+	[49] = 
+	{
+		alt	=	119.15767669678,
+		type	=	"ZSU-23-4 Shilka",
+		groupId	=	8,
+		coalition	=	"blue",
+		x	=	-274919.40625,
+		heading	=	6.2831853071796,
+		y	=	695357.375,
+		speed	=	0,
+		unitId	=	16,
+		N_obj	=	3,
+		country	=	16,
+	}, -- end of [49]
+	[50] = 
+	{
+		alt	=	114.60457611084,
+		type	=	"ZSU-23-4 Shilka",
+		groupId	=	8,
+		coalition	=	"blue",
+		x	=	-275379.375,
+		heading	=	-1.7484556025238e-07,
+		y	=	695471.25,
+		speed	=	0,
+		unitId	=	17,
+		N_obj	=	4,
+		country	=	16,
+	}, -- end of [50]
+	[51] = 
+	{
+		alt	=	110.01111602783,
+		type	=	"KAMAZ Truck",
+		groupId	=	9,
+		coalition	=	"blue",
+		x	=	-275864.65625,
+		heading	=	1.3448146025287,
+		y	=	695038.6875,
+		speed	=	0,
+		unitId	=	18,
+		N_obj	=	1,
+		country	=	16,
+	}, -- end of [51]
+	[52] = 
+	{
+		alt	=	110.01111602783,
+		type	=	"KAMAZ Truck",
+		groupId	=	9,
+		coalition	=	"blue",
+		x	=	-275871.375,
+		heading	=	1.3450363318073,
+		y	=	695009.4375,
+		speed	=	0,
+		unitId	=	19,
+		N_obj	=	2,
+		country	=	16,
+	}, -- end of [52]
+	[53] = 
+	{
+		alt	=	110.01110839844,
+		type	=	"KAMAZ Truck",
+		groupId	=	9,
+		coalition	=	"blue",
+		x	=	-275878,
+		heading	=	1.4772213141071,
+		y	=	694980.1875,
+		speed	=	0,
+		unitId	=	20,
+		N_obj	=	3,
+		country	=	16,
+	}, -- end of [53]
+	[54] = 
+	{
+		alt	=	110.01110839844,
+		type	=	"KAMAZ Truck",
+		groupId	=	9,
+		coalition	=	"blue",
+		x	=	-275879.65625,
+		heading	=	1.5488131682025,
+		y	=	694950.3125,
+		speed	=	0,
+		unitId	=	21,
+		N_obj	=	4,
+		country	=	16,
+	}, -- end of [54]
+	[55] = 
+	{
+		alt	=	113.33345794678,
+		type	=	"Osa 9A33 ln",
+		groupId	=	10,
+		coalition	=	"blue",
+		x	=	-275525.4375,
+		heading	=	6.2831853071505,
+		y	=	695696.9375,
+		speed	=	0,
+		unitId	=	22,
+		N_obj	=	1,
+		country	=	16,
+	}, -- end of [55]
+	[56] = 
+	{
+		alt	=	108.8791809082,
+		type	=	"Osa 9A33 ln",
+		groupId	=	10,
+		coalition	=	"blue",
+		x	=	-275579.5,
+		heading	=	6.2831853071796,
+		y	=	693874.4375,
+		speed	=	0,
+		unitId	=	23,
+		N_obj	=	2,
+		country	=	16,
+	}, -- end of [56]
+	[57] = 
+	{
+		alt	=	113.21995544434,
+		type	=	"SA-18 Igla manpad",
+		groupId	=	11,
+		coalition	=	"blue",
+		x	=	-275307.34375,
+		heading	=	6.2831853071796,
+		y	=	694521.6875,
+		speed	=	0,
+		unitId	=	24,
+		N_obj	=	1,
+		country	=	16,
+	}, -- end of [57]
+	[58] = 
+	{
+		alt	=	113.22637939453,
+		type	=	"SA-18 Igla comm",
+		groupId	=	11,
+		coalition	=	"blue",
+		x	=	-275308.34375,
+		heading	=	6.2831853071796,
+		y	=	694524.75,
+		speed	=	0,
+		unitId	=	25,
+		N_obj	=	2,
+		country	=	16,
+	}, -- end of [58]
+	[59] = 
+	{
+		alt	=	110.01110839844,
+		type	=	"ZiL-131 APA-80",
+		groupId	=	12,
+		coalition	=	"blue",
+		x	=	-275892.90625,
+		heading	=	0.78539783159365,
+		y	=	695016.9375,
+		speed	=	0,
+		unitId	=	26,
+		N_obj	=	1,
+		country	=	16,
+	}, -- end of [59]
+	[60] = 
+	{
+		alt	=	159.21028137207,
+		type	=	"SA-11 Buk SR 9S18M1",
+		groupId	=	28,
+		coalition	=	"blue",
+		x	=	-287219.34375,
+		heading	=	6.2831853071796,
+		y	=	728786.3125,
+		speed	=	0,
+		unitId	=	67,
+		N_obj	=	1,
+		country	=	16,
+	}, -- end of [60]
+	[61] = 
+	{
+		alt	=	159.8738861084,
+		type	=	"SA-11 Buk LN 9A310M1",
+		groupId	=	28,
+		coalition	=	"blue",
+		x	=	-287034.3125,
+		heading	=	6.2831853071787,
+		y	=	728658.6875,
+		speed	=	0,
+		unitId	=	68,
+		N_obj	=	2,
+		country	=	16,
+	}, -- end of [61]
+	[62] = 
+	{
+		alt	=	159.54403686523,
+		type	=	"SA-11 Buk LN 9A310M1",
+		groupId	=	28,
+		coalition	=	"blue",
+		x	=	-287200.46875,
+		heading	=	-1.7484556025238e-07,
+		y	=	728536.6875,
+		speed	=	0,
+		unitId	=	69,
+		N_obj	=	3,
+		country	=	16,
+	}, -- end of [62]
+	[63] = 
+	{
+		alt	=	160.25355529785,
+		type	=	"SA-11 Buk LN 9A310M1",
+		groupId	=	28,
+		coalition	=	"blue",
+		x	=	-287402.1875,
+		heading	=	6.2831853071759,
+		y	=	728559.9375,
+		speed	=	0,
+		unitId	=	70,
+		N_obj	=	4,
+		country	=	16,
+	}, -- end of [63]
+	[64] = 
+	{
+		alt	=	160.32585144043,
+		type	=	"Ural-375 PBU",
+		groupId	=	28,
+		coalition	=	"blue",
+		x	=	-287390.03125,
+		heading	=	6.2831853071791,
+		y	=	728830.25,
+		speed	=	0,
+		unitId	=	71,
+		N_obj	=	5,
+		country	=	16,
+	}, -- end of [64]
+	[65] = 
+	{
+		alt	=	160.29417419434,
+		type	=	"Ural-375 PBU",
+		groupId	=	28,
+		coalition	=	"blue",
+		x	=	-287388.3125,
+		heading	=	6.2831853071791,
+		y	=	728844.5625,
+		speed	=	0,
+		unitId	=	72,
+		N_obj	=	6,
+		country	=	16,
+	}, -- end of [65]
+	[66] = 
+	{
+		alt	=	160.28945922852,
+		type	=	"Ural-375 PBU",
+		groupId	=	28,
+		coalition	=	"blue",
+		x	=	-287388.3125,
+		heading	=	6.2831853071791,
+		y	=	728857.4375,
+		speed	=	0,
+		unitId	=	73,
+		N_obj	=	7,
+		country	=	16,
+	}, -- end of [66]
+	[67] = 
+	{
+		alt	=	159.06715393066,
+		type	=	"UAZ-469",
+		groupId	=	28,
+		coalition	=	"blue",
+		x	=	-287088.125,
+		heading	=	4.0176506678211,
+		y	=	728872.0625,
+		speed	=	0,
+		unitId	=	74,
+		N_obj	=	8,
+		country	=	16,
+	}, -- end of [67]
+	[68] = 
+	{
+		alt	=	160.54396057129,
+		type	=	"SA-11 Buk CC 9S470M1",
+		groupId	=	28,
+		coalition	=	"blue",
+		x	=	-287220.09375,
+		heading	=	6.2831853071796,
+		y	=	728927.3125,
+		speed	=	0,
+		unitId	=	83,
+		N_obj	=	9,
+		country	=	16,
+	}, -- end of [68]
+} -- end of world_state
+mission_file_mark	=	1754032553
+mission_time	=	1231.871
+warehouses = 
+{
+	airports = 
+	{
+		[12] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [12]
+		[13] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [13]
+		[14] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [14]
+		[15] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [15]
+		[16] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [16]
+		[17] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [17]
+		[18] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [18]
+		[19] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [19]
+		[20] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [20]
+		[21] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [21]
+		[22] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [22]
+		[23] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [23]
+		[24] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [24]
+		[25] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [25]
+		[26] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [26]
+		[27] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [27]
+		[28] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [28]
+		[29] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [29]
+		[30] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [30]
+		[31] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [31]
+		[32] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [32]
+	}, -- end of airports
+	warehouses = 
+	{
+		[2] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [2]
+		[3] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [3]
+		[4] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [4]
+	}, -- end of warehouses
+} -- end of warehouses
+triggers_state = 
+{
+	["1"] = 
+	{
+		time	=	846.901,
+		value	=	1,
+	}, -- end of ["1"]
+	["11"] = 
+	{
+		time	=	1195.701,
+		value	=	1,
+	}, -- end of ["11"]
+} -- end of triggers_state
+result	=	0
+events = 
+{
+	[1] = 
+	{
+		type	=	"mission start",
+		event_id	=	51,
+		t	=	0,
+		linked_event_id	=	0,
+		ta	=	28800,
+	}, -- end of [1]
+	[2] = 
+	{
+		linked_event_id	=	0,
+		t	=	0,
+		event_id	=	52,
+		type	=	"took control",
+	}, -- end of [2]
+	[3] = 
+	{
+		initiator_unit_type	=	"Su-25T",
+		type	=	"under control",
+		initiator_object_id	=	16792832,
+		targetMissionID	=	"27",
+		target	=	"Player (430)",
+		t	=	0,
+		initiatorPilotName	=	"Lysergia",
+		initiator_coalition	=	1,
+	}, -- end of [3]
+	[4] = 
+	{
+		type	=	"engine startup",
+		initiatorPilotName	=	"Su-25T",
+		place	=	"Nalchik",
+		t	=	32.5,
+		placeDisplayName	=	"Nalchik",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16778496,
+		linked_event_id	=	0,
+		event_id	=	210,
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"35",
+	}, -- end of [4]
+	[5] = 
+	{
+		type	=	"engine startup",
+		initiatorPilotName	=	"Su-25T",
+		place	=	"Nalchik",
+		t	=	32.7,
+		placeDisplayName	=	"Nalchik",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16778240,
+		linked_event_id	=	0,
+		event_id	=	211,
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"34",
+	}, -- end of [5]
+	[6] = 
+	{
+		type	=	"takeoff",
+		initiatorPilotName	=	"Su-25",
+		place	=	"Kutaisi",
+		t	=	49.1,
+		placeDisplayName	=	"Kutaisi",
+		initiator_unit_type	=	"Su-25",
+		initiator_object_id	=	16785664,
+		linked_event_id	=	0,
+		event_id	=	214,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"39",
+	}, -- end of [6]
+	[7] = 
+	{
+		type	=	"takeoff",
+		initiatorPilotName	=	"Su-25",
+		place	=	"Kutaisi",
+		t	=	50,
+		placeDisplayName	=	"Kutaisi",
+		initiator_unit_type	=	"Su-25",
+		initiator_object_id	=	16785408,
+		linked_event_id	=	0,
+		event_id	=	215,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"38",
+	}, -- end of [7]
+	[8] = 
+	{
+		type	=	"takeoff",
+		initiatorPilotName	=	"Su-25T",
+		place	=	"Nalchik",
+		t	=	105.5,
+		placeDisplayName	=	"Nalchik",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16793088,
+		linked_event_id	=	0,
+		event_id	=	218,
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"28",
+	}, -- end of [8]
+	[9] = 
+	{
+		type	=	"takeoff",
+		initiatorPilotName	=	"Su-25T",
+		place	=	"Nalchik",
+		t	=	105.68,
+		placeDisplayName	=	"Nalchik",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16792832,
+		linked_event_id	=	0,
+		event_id	=	219,
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"27",
+	}, -- end of [9]
+	[10] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"39",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16779008,
+		target	=	"Su-25",
+		target_object_id	=	16785664,
+		targetPilotName	=	"Su-25",
+		type	=	"shot",
+		target_unit_type	=	"Su-25",
+		t	=	487.26,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	220,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+		initiator_coalition	=	1,
+	}, -- end of [10]
+	[11] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"38",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16778752,
+		target	=	"Su-25",
+		target_object_id	=	16785408,
+		targetPilotName	=	"Su-25",
+		type	=	"shot",
+		target_unit_type	=	"Su-25",
+		t	=	515.54,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	221,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"36",
+		initiator_coalition	=	1,
+	}, -- end of [11]
+	[12] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	220,
+		targetMissionID	=	"39",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16779008,
+		target	=	"Su-25",
+		target_object_id	=	16785664,
+		targetPilotName	=	"Su-25",
+		type	=	"hit",
+		target_unit_type	=	"Su-25",
+		t	=	521.69,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	222,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+		initiator_coalition	=	1,
+	}, -- end of [12]
+	[13] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"39",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16779008,
+		target	=	"Su-25",
+		target_object_id	=	16785664,
+		targetPilotName	=	"Su-25",
+		type	=	"bda",
+		target_unit_type	=	"Su-25",
+		t	=	521.69,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	223,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+		initiator_coalition	=	1,
+	}, -- end of [13]
+	[14] = 
+	{
+		type	=	"ai abort mission",
+		initiatorPilotName	=	"Su-25",
+		t	=	521.69,
+		initiator_unit_type	=	"Su-25",
+		initiator_object_id	=	16785664,
+		linked_event_id	=	0,
+		event_id	=	224,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"39",
+	}, -- end of [14]
+	[15] = 
+	{
+		initiatorPilotName	=	"Su-25",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"0",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16785664,
+		target	=	"",
+		target_object_id	=	33556992,
+		targetPilotName	=	"",
+		type	=	"eject",
+		target_unit_type	=	"",
+		t	=	523.7,
+		initiator_unit_type	=	"Su-25",
+		event_id	=	225,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"39",
+		initiator_coalition	=	2,
+	}, -- end of [15]
+	[16] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	222,
+		targetMissionID	=	"39",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16779008,
+		target	=	"Su-25",
+		target_object_id	=	16785664,
+		targetPilotName	=	"Su-25",
+		type	=	"kill",
+		target_unit_type	=	"Su-25",
+		t	=	523.7,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	226,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+		initiator_coalition	=	1,
+	}, -- end of [16]
+	[17] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Su-27",
+		t	=	523.7,
+		linked_event_id	=	226,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	227,
+		initiator_object_id	=	16779008,
+		amount	=	40,
+		comment	=	"air",
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+	}, -- end of [17]
+	[18] = 
+	{
+		initiatorPilotName	=	"",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"0",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16811008,
+		target	=	"",
+		target_object_id	=	33556992,
+		targetPilotName	=	"",
+		type	=	"pilot discard chair",
+		target_unit_type	=	"",
+		t	=	524.78,
+		initiator_unit_type	=	"",
+		event_id	=	229,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"0",
+		initiator_coalition	=	2,
+	}, -- end of [18]
+	[19] = 
+	{
+		type	=	"crash",
+		initiatorPilotName	=	"Su-25",
+		t	=	524.82,
+		initiator_unit_type	=	"Su-25",
+		initiator_object_id	=	16785664,
+		linked_event_id	=	0,
+		event_id	=	231,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"39",
+	}, -- end of [19]
+	[20] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"38",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16779008,
+		target	=	"Su-25",
+		target_object_id	=	16785408,
+		targetPilotName	=	"Su-25",
+		type	=	"shot",
+		target_unit_type	=	"Su-25",
+		t	=	526.22,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	232,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+		initiator_coalition	=	1,
+	}, -- end of [20]
+	[21] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	221,
+		targetMissionID	=	"38",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16778752,
+		target	=	"Su-25",
+		target_object_id	=	16785408,
+		targetPilotName	=	"Su-25",
+		type	=	"hit",
+		target_unit_type	=	"Su-25",
+		t	=	537.93,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	233,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"36",
+		initiator_coalition	=	1,
+	}, -- end of [21]
+	[22] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"38",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16778752,
+		target	=	"Su-25",
+		target_object_id	=	16785408,
+		targetPilotName	=	"Su-25",
+		type	=	"bda",
+		target_unit_type	=	"Su-25",
+		t	=	537.93,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	234,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"36",
+		initiator_coalition	=	1,
+	}, -- end of [22]
+	[23] = 
+	{
+		type	=	"ai abort mission",
+		initiatorPilotName	=	"Su-25",
+		t	=	537.93,
+		initiator_unit_type	=	"Su-25",
+		initiator_object_id	=	16785408,
+		linked_event_id	=	0,
+		event_id	=	235,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"38",
+	}, -- end of [23]
+	[24] = 
+	{
+		type	=	"ai abort mission",
+		initiatorPilotName	=	"Su-25",
+		t	=	537.93,
+		initiator_unit_type	=	"Su-25",
+		initiator_object_id	=	16785408,
+		linked_event_id	=	0,
+		event_id	=	236,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"38",
+	}, -- end of [24]
+	[25] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	232,
+		targetMissionID	=	"38",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16779008,
+		target	=	"Su-25",
+		target_object_id	=	16785408,
+		targetPilotName	=	"Su-25",
+		type	=	"hit",
+		target_unit_type	=	"Su-25",
+		t	=	538.76,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	237,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+		initiator_coalition	=	1,
+	}, -- end of [25]
+	[26] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"38",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16779008,
+		target	=	"Su-25",
+		target_object_id	=	16785408,
+		targetPilotName	=	"Su-25",
+		type	=	"bda",
+		target_unit_type	=	"Su-25",
+		t	=	538.76,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	238,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+		initiator_coalition	=	1,
+	}, -- end of [26]
+	[27] = 
+	{
+		type	=	"pilot dead",
+		initiatorPilotName	=	"Su-25",
+		t	=	538.76,
+		initiator_unit_type	=	"Su-25",
+		initiator_object_id	=	16785408,
+		linked_event_id	=	0,
+		event_id	=	239,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"38",
+	}, -- end of [27]
+	[28] = 
+	{
+		weapon_type	=	919396,
+		initiatorPilotName	=	"Su-27",
+		target_coalition	=	2,
+		linked_event_id	=	237,
+		targetMissionID	=	"38",
+		target_ws_type1	=	1,
+		initiator_object_id	=	16779008,
+		target	=	"Su-25",
+		target_object_id	=	16785408,
+		targetPilotName	=	"Su-25",
+		type	=	"kill",
+		target_unit_type	=	"Su-25",
+		t	=	538.76,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	240,
+		weapon	=	"R-27ER (AA-10 Alamo C)",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+		initiator_coalition	=	1,
+	}, -- end of [28]
+	[29] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Su-27",
+		t	=	538.76,
+		linked_event_id	=	240,
+		initiator_unit_type	=	"Su-27",
+		event_id	=	241,
+		initiator_object_id	=	16779008,
+		amount	=	40,
+		comment	=	"air",
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"37",
+	}, -- end of [29]
+	[30] = 
+	{
+		type	=	"ai abort mission",
+		initiatorPilotName	=	"Su-25",
+		t	=	539.24,
+		initiator_unit_type	=	"Su-25",
+		initiator_object_id	=	16785408,
+		linked_event_id	=	0,
+		event_id	=	243,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"38",
+	}, -- end of [30]
+	[31] = 
+	{
+		type	=	"crash",
+		initiatorPilotName	=	"Su-25",
+		t	=	560.26,
+		initiator_unit_type	=	"Su-25",
+		initiator_object_id	=	16785408,
+		linked_event_id	=	0,
+		event_id	=	244,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"38",
+	}, -- end of [31]
+	[32] = 
+	{
+		weapon_type	=	3016756,
+		initiatorPilotName	=	"Su-34",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"7",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16777472,
+		target	=	"SA-11 Buk SR 9S18M1",
+		target_object_id	=	16785920,
+		targetPilotName	=	"SA-11 Buk SR 9S18M1",
+		type	=	"shot",
+		target_unit_type	=	"SA-11 Buk SR 9S18M1",
+		t	=	581.66,
+		initiator_unit_type	=	"Su-34",
+		event_id	=	245,
+		weapon	=	"Kh-58U",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"29",
+		initiator_coalition	=	1,
+	}, -- end of [32]
+	[33] = 
+	{
+		weapon_type	=	3016756,
+		initiatorPilotName	=	"Su-34",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"7",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16777728,
+		target	=	"SA-11 Buk SR 9S18M1",
+		target_object_id	=	16785920,
+		targetPilotName	=	"SA-11 Buk SR 9S18M1",
+		type	=	"shot",
+		target_unit_type	=	"SA-11 Buk SR 9S18M1",
+		t	=	709.26,
+		initiator_unit_type	=	"Su-34",
+		event_id	=	246,
+		weapon	=	"Kh-58U",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"30",
+		initiator_coalition	=	1,
+	}, -- end of [33]
+	[34] = 
+	{
+		weapon_type	=	3016756,
+		initiatorPilotName	=	"Su-34",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"22",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16777472,
+		target	=	"Osa 9A33 ln",
+		target_object_id	=	16789248,
+		targetPilotName	=	"Osa 9A33 ln",
+		type	=	"shot",
+		target_unit_type	=	"Osa 9A33 ln",
+		t	=	728.18,
+		initiator_unit_type	=	"Su-34",
+		event_id	=	247,
+		weapon	=	"Kh-58U",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"29",
+		initiator_coalition	=	1,
+	}, -- end of [34]
+	[35] = 
+	{
+		weapon_type	=	3016756,
+		initiatorPilotName	=	"Su-34",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"23",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16777728,
+		target	=	"Osa 9A33 ln",
+		target_object_id	=	16789504,
+		targetPilotName	=	"Osa 9A33 ln",
+		type	=	"shot",
+		target_unit_type	=	"Osa 9A33 ln",
+		t	=	735.52,
+		initiator_unit_type	=	"Su-34",
+		event_id	=	248,
+		weapon	=	"Kh-58U",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"30",
+		initiator_coalition	=	1,
+	}, -- end of [35]
+	[36] = 
+	{
+		weapon_type	=	5579364,
+		initiatorPilotName	=	"Osa 9A33 ln",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"0",
+		target_ws_type1	=	4,
+		initiator_object_id	=	16789248,
+		target	=	"X_58",
+		target_object_id	=	16816384,
+		targetPilotName	=	"X_58",
+		type	=	"shot",
+		target_unit_type	=	"X_58",
+		t	=	745.666,
+		initiator_unit_type	=	"Osa 9A33 ln",
+		event_id	=	249,
+		weapon	=	"9M33 Osa (SA-8 Gecko)",
+		initiator_ws_type1	=	2,
+		initiatorMissionID	=	"22",
+		initiator_coalition	=	2,
+	}, -- end of [36]
+	[37] = 
+	{
+		weapon_type	=	5579364,
+		initiatorPilotName	=	"Osa 9A33 ln",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"0",
+		target_ws_type1	=	4,
+		initiator_object_id	=	16789248,
+		target	=	"X_58",
+		target_object_id	=	16816384,
+		targetPilotName	=	"X_58",
+		type	=	"shot",
+		target_unit_type	=	"X_58",
+		t	=	750.026,
+		initiator_unit_type	=	"Osa 9A33 ln",
+		event_id	=	250,
+		weapon	=	"9M33 Osa (SA-8 Gecko)",
+		initiator_ws_type1	=	2,
+		initiatorMissionID	=	"22",
+		initiator_coalition	=	2,
+	}, -- end of [37]
+	[38] = 
+	{
+		weapon_type	=	3016756,
+		initiatorPilotName	=	"Su-34",
+		target_coalition	=	2,
+		linked_event_id	=	245,
+		targetMissionID	=	"7",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16777472,
+		target	=	"SA-11 Buk SR 9S18M1",
+		target_object_id	=	16785920,
+		targetPilotName	=	"SA-11 Buk SR 9S18M1",
+		type	=	"hit",
+		target_unit_type	=	"SA-11 Buk SR 9S18M1",
+		t	=	757.98,
+		initiator_unit_type	=	"Su-34",
+		event_id	=	251,
+		weapon	=	"Kh-58U",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"29",
+		initiator_coalition	=	1,
+	}, -- end of [38]
+	[39] = 
+	{
+		weapon_type	=	3016756,
+		initiatorPilotName	=	"Su-34",
+		target_coalition	=	2,
+		linked_event_id	=	251,
+		targetMissionID	=	"7",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16777472,
+		target	=	"SA-11 Buk SR 9S18M1",
+		target_object_id	=	16785920,
+		targetPilotName	=	"SA-11 Buk SR 9S18M1",
+		type	=	"kill",
+		target_unit_type	=	"SA-11 Buk SR 9S18M1",
+		t	=	757.98,
+		initiator_unit_type	=	"Su-34",
+		event_id	=	253,
+		weapon	=	"Kh-58U",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"29",
+		initiator_coalition	=	1,
+	}, -- end of [39]
+	[40] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Su-34",
+		t	=	757.98,
+		linked_event_id	=	253,
+		initiator_unit_type	=	"Su-34",
+		event_id	=	254,
+		initiator_object_id	=	16777472,
+		amount	=	20,
+		comment	=	"ground",
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"29",
+	}, -- end of [40]
+	[41] = 
+	{
+		weapon_type	=	3016756,
+		initiatorPilotName	=	"Su-34",
+		target_coalition	=	2,
+		linked_event_id	=	0,
+		targetMissionID	=	"7",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16777472,
+		target	=	"SA-11 Buk SR 9S18M1",
+		target_object_id	=	16785920,
+		targetPilotName	=	"SA-11 Buk SR 9S18M1",
+		type	=	"bda",
+		target_unit_type	=	"SA-11 Buk SR 9S18M1",
+		t	=	757.98,
+		initiator_unit_type	=	"Su-34",
+		event_id	=	256,
+		weapon	=	"Kh-58U",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"29",
+		initiator_coalition	=	1,
+	}, -- end of [41]
+	[42] = 
+	{
+		type	=	"pilot dead",
+		initiatorPilotName	=	"Su-25T",
+		t	=	798.76,
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16793088,
+		linked_event_id	=	0,
+		event_id	=	259,
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"28",
+	}, -- end of [42]
+	[43] = 
+	{
+		type	=	"crash",
+		initiatorPilotName	=	"Su-25T",
+		t	=	798.76,
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16793088,
+		linked_event_id	=	0,
+		event_id	=	261,
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"28",
+	}, -- end of [43]
+	[44] = 
+	{
+		type	=	"pilot dead",
+		initiatorPilotName	=	"Su-25T",
+		t	=	1195.08,
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16792832,
+		linked_event_id	=	0,
+		event_id	=	264,
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"27",
+	}, -- end of [44]
+	[45] = 
+	{
+		type	=	"crash",
+		initiatorPilotName	=	"Su-25T",
+		t	=	1195.08,
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16792832,
+		linked_event_id	=	0,
+		event_id	=	266,
+		initiator_coalition	=	1,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"27",
+	}, -- end of [45]
+	[46] = 
+	{
+		type	=	"mission end",
+		comment	=	"winner: , msg: ",
+		t	=	1231.871,
+		linked_event_id	=	0,
+		event_id	=	268,
+	}, -- end of [46]
+} -- end of events

@@ -1,6 +1,7 @@
 module Main where
 
-import Lib ()
+import DCS.Briefing.Parser.Internal.Parse
+
 
 main :: IO ()
-main = putStrLn "hello world"
+main = testParsing
