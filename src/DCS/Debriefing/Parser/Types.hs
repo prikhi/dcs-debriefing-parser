@@ -70,6 +70,7 @@ data EventType
     | EngineShutdown EngineShutdownData
     | Takeoff TakeoffData
     | Land LandData
+    | TriggerZone TriggerZoneData
     | StartShooting StartShootingData
     | EndShooting EndShootingData
     | Shot ShotData
@@ -106,6 +107,7 @@ data UnderControlData = UnderControlData
     }
     deriving stock (Show, Eq)
 
+
 data WeaponRearmData = WeaponRearmData
     { initiatorMissionID :: Text
     , initiatorPilotName :: Text
@@ -116,6 +118,7 @@ data WeaponRearmData = WeaponRearmData
     -- ^ No idea what this is
     }
     deriving stock (Show, Eq)
+
 
 data EngineStartupData = EngineStartupData
     { initiatorMissionID :: Text
@@ -172,6 +175,26 @@ data LandData = LandData
     }
     deriving stock (Show, Eq)
 
+
+data TriggerZoneData = TriggerZoneData
+    { initiatorMissionID :: Text
+    , initiatorPilotName :: Text
+    , initiatorCoalition :: Integer
+    , initiatorObjectId :: Integer
+    , initiatorUnitType :: Text
+    , initiatorWsType1 :: Integer
+    -- ^ No idea what this is
+    , target :: Text
+    , targetMissionId :: Text
+    , targetPilotName :: Text
+    , targetCoalition :: Integer
+    , targetObjectId :: Integer
+    , targetUnitType :: Text
+    , targetWsType1 :: Integer
+    }
+    deriving stock (Show, Eq)
+
+
 data StartShootingData = StartShootingData
     { initiatorUnitType :: Text
     , initiatorObjectId :: Integer
@@ -191,6 +214,7 @@ data StartShootingData = StartShootingData
     , weapon :: Text
     }
     deriving stock (Show, Eq)
+
 
 data EndShootingData = EndShootingData
     { initiatorUnitType :: Text
@@ -340,6 +364,7 @@ data PilotDeadData = PilotDeadData
     }
     deriving stock (Show, Eq)
 
+
 data EjectData = EjectData
     { initiatorMissionID :: Text
     , initiatorPilotName :: Text
@@ -379,6 +404,7 @@ data PilotDiscardChairData = PilotDiscardChairData
     }
     deriving stock (Show, Eq)
 
+
 data PilotLandingData = PilotLandingData
     { initiatorMissionID :: Text
     , initiatorPilotName :: Text
@@ -388,6 +414,7 @@ data PilotLandingData = PilotLandingData
     , initiatorWsType1 :: Integer
     }
     deriving stock (Show, Eq)
+
 
 data FailureData = FailureData
     { initiatorMissionID :: Text
@@ -402,6 +429,7 @@ data FailureData = FailureData
     }
     deriving stock (Show, Eq)
 
+
 data CrashData = CrashData
     { initiatorMissionID :: Text
     , initiatorPilotName :: Text
@@ -413,6 +441,7 @@ data CrashData = CrashData
     }
     deriving stock (Show, Eq)
 
+
 data RelinquishedData = RelinquishedData
     { initiatorPilotName :: Text
     , initiatorCoalition :: Integer
@@ -422,6 +451,7 @@ data RelinquishedData = RelinquishedData
     , targetMissionId :: Text
     }
     deriving stock (Show, Eq)
+
 
 data MissionEndData = MissionEndData
     { comment :: Text

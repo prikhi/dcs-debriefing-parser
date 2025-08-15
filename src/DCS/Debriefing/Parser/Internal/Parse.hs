@@ -35,7 +35,7 @@ data ValueParseError
 
 
 testParsing :: IO ()
-testParsing = forM_ [1 .. 17] $ \(i :: Int) -> do
+testParsing = forM_ [1 .. 20] $ \(i :: Int) -> do
     let fileName = show i <> ".log"
     lexResult <- lexerHarness $ "fixtures/" <> fileName
     case lexResult of
@@ -184,9 +184,9 @@ parseEvent = \case
   where
     parseEventMap :: HashMap Text RawValue -> Either ValueParseError Event
     parseEventMap hm = do
-        eventId <- optionalMapField "event_id" hm & sequence . fmap (expectIntegerValue "event_id")
+        eventId <- optionalMapField "event_id" hm & mapM (expectIntegerValue "event_id")
         time <- hm .: "t"
-        linkedEventId <- optionalMapField "linked_event_id" hm & sequence . fmap (expectIntegerValue "linked_event_id")
+        linkedEventId <- optionalMapField "linked_event_id" hm & mapM (expectIntegerValue "linked_event_id")
         eventTypeTag <- hm .: "type"
         eventType <- parseEventType hm eventTypeTag
         pure Event {..}
@@ -233,6 +233,21 @@ parseEvent = \case
             -- Same exact fields as "engine starup" event
             EngineStartupData {..} <- parseEngineStartupData hm
             pure $ Land LandData {..}
+        "trigger zone" -> do
+            initiatorUnitType <- hm .: "initiator_unit_type"
+            initiatorObjectId <- hm .: "initiator_object_id"
+            initiatorPilotName <- hm .: "initiatorPilotName"
+            initiatorCoalition <- hm .: "initiator_coalition"
+            initiatorMissionID <- hm .: "initiatorMissionID"
+            initiatorWsType1 <- hm .: "initiator_ws_type1"
+            target <- hm .: "target"
+            targetMissionId <- hm .: "targetMissionID"
+            targetPilotName <- hm .: "targetPilotName"
+            targetCoalition <- hm .: "target_coalition"
+            targetObjectId <- hm .: "target_object_id"
+            targetUnitType <- hm .: "target_unit_type"
+            targetWsType1 <- hm .: "target_ws_type1"
+            pure $ TriggerZone TriggerZoneData {..}
         "start shooting" -> do
             initiatorUnitType <- hm .: "initiator_unit_type"
             initiatorObjectId <- hm .: "initiator_object_id"
@@ -417,7 +432,7 @@ parseEvent = \case
             initiatorCoalition <- hm .: "initiator_coalition"
             initiatorMissionID <- hm .: "initiatorMissionID"
             initiatorWsType1 <- hm .: "initiator_ws_type1"
-            pure $ Crash CrashData{..}
+            pure $ Crash CrashData {..}
         "relinquished" -> do
             initiatorUnitType <- hm .: "initiator_unit_type"
             initiatorObjectId <- hm .: "initiator_object_id"

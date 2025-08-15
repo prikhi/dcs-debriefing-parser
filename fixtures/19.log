@@ -1,0 +1,586 @@
+mission_file_path	=	"C:/users/steamuser/Saved Games/DCS/Missions/Su-25T/Caucasus Incursion//incursion.miz"
+callsign	=	"Lysergia"
+graveyard = 
+{
+	[1] = 
+	{
+		coalition	=	"red",
+		x	=	-235595.71875,
+		country	=	0,
+		heading	=	2.5132740179645,
+		alt	=	5.0010046958923,
+		y	=	595652.375,
+		type	=	"AAV7",
+	}, -- end of [1]
+	[2] = 
+	{
+		coalition	=	"red",
+		x	=	-236375.015625,
+		country	=	0,
+		heading	=	3.3460825125324,
+		alt	=	8.6859369277954,
+		y	=	597242.875,
+		type	=	"Ural-4320T",
+	}, -- end of [2]
+	[3] = 
+	{
+		coalition	=	"red",
+		x	=	-236424.25,
+		country	=	0,
+		heading	=	2.0725539366352,
+		alt	=	8.1787986755371,
+		y	=	597264.6875,
+		type	=	"Ural-4320T",
+	}, -- end of [3]
+} -- end of graveyard
+world_state = 
+{
+	[1] = 
+	{
+		alt	=	15.149033546448,
+		type	=	"Su-25T",
+		heading	=	0.095963303242819,
+		country	=	80,
+		y	=	647631.9375,
+		x	=	-281473.21875,
+		hidden	=	false,
+		unitId	=	4,
+		coalition	=	"blue",
+		life	=	32,
+		groupId	=	4,
+		payload = 
+		{
+			pylons = 	{},
+			fuel	=	2502,
+			flare	=	128,
+			chaff	=	128,
+			gun	=	100,
+		}, -- end of payload
+		speed	=	1.4990503586887e-05,
+		goto	=	0,
+		N_obj	=	1,
+		dead	=	false,
+	}, -- end of [1]
+} -- end of world_state
+mission_file_mark	=	1675945182
+mission_time	=	1697.34
+warehouses = 
+{
+	airports = 
+	{
+		[12] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [12]
+		[13] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [13]
+		[14] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [14]
+		[15] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [15]
+		[16] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [16]
+		[17] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [17]
+		[18] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [18]
+		[19] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [19]
+		[20] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [20]
+		[21] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [21]
+		[22] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [22]
+		[23] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [23]
+		[24] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [24]
+		[25] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [25]
+		[26] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [26]
+		[27] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [27]
+		[28] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [28]
+		[29] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [29]
+		[30] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [30]
+		[31] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [31]
+		[32] = 
+		{
+			unlimitedFuel	=	true,
+			unlimitedMunitions	=	true,
+			unlimitedAircrafts	=	true,
+		}, -- end of [32]
+	}, -- end of airports
+	warehouses = 	{},
+} -- end of warehouses
+triggers_state = 	{}
+result	=	100
+events = 
+{
+	[1] = 
+	{
+		type	=	"mission start",
+		event_id	=	2,
+		t	=	0,
+		linked_event_id	=	0,
+		ta	=	28800,
+	}, -- end of [1]
+	[2] = 
+	{
+		linked_event_id	=	0,
+		t	=	0,
+		event_id	=	3,
+		type	=	"took control",
+	}, -- end of [2]
+	[3] = 
+	{
+		initiator_unit_type	=	"Su-25T",
+		type	=	"under control",
+		initiator_object_id	=	16778240,
+		targetMissionID	=	"4",
+		target	=	"Aerial-1-1",
+		t	=	0,
+		initiatorPilotName	=	"Lysergia",
+		initiator_coalition	=	2,
+	}, -- end of [3]
+	[4] = 
+	{
+		type	=	"takeoff",
+		initiatorPilotName	=	"Lysergia",
+		place	=	"Senaki-Kolkhi",
+		t	=	109.54,
+		placeDisplayName	=	"Senaki-Kolkhi",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16778240,
+		linked_event_id	=	0,
+		event_id	=	11,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [4]
+	[5] = 
+	{
+		weapon_type	=	3803204,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	544.5,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16778240,
+		event_id	=	12,
+		weapon	=	"9M127 Vikhr",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [5]
+	[6] = 
+	{
+		weapon_type	=	3803204,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	12,
+		targetMissionID	=	"5",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16778240,
+		target	=	"AAV7",
+		target_object_id	=	16777472,
+		targetPilotName	=	"AAV7",
+		type	=	"hit",
+		target_unit_type	=	"AAV7",
+		t	=	555.24,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	13,
+		weapon	=	"9M127 Vikhr",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	2,
+	}, -- end of [6]
+	[7] = 
+	{
+		weapon_type	=	3803204,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	13,
+		targetMissionID	=	"5",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16778240,
+		target	=	"AAV7",
+		target_object_id	=	16777472,
+		targetPilotName	=	"AAV7",
+		type	=	"kill",
+		target_unit_type	=	"AAV7",
+		t	=	555.24,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	15,
+		weapon	=	"9M127 Vikhr",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	2,
+	}, -- end of [7]
+	[8] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	555.24,
+		linked_event_id	=	15,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	16,
+		initiator_object_id	=	16778240,
+		amount	=	8,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [8]
+	[9] = 
+	{
+		weapon_type	=	3803204,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"5",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16778240,
+		target	=	"AAV7",
+		target_object_id	=	16777472,
+		targetPilotName	=	"AAV7",
+		type	=	"bda",
+		target_unit_type	=	"AAV7",
+		t	=	555.24,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	18,
+		weapon	=	"9M127 Vikhr",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	2,
+	}, -- end of [9]
+	[10] = 
+	{
+		weapon_type	=	3803204,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	758.74,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16778240,
+		event_id	=	23,
+		weapon	=	"9M127 Vikhr",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [10]
+	[11] = 
+	{
+		weapon_type	=	3803204,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	831.56,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16778240,
+		event_id	=	24,
+		weapon	=	"9M127 Vikhr",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [11]
+	[12] = 
+	{
+		weapon_type	=	3803204,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	24,
+		targetMissionID	=	"6",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16778240,
+		target	=	"Ural-4320T",
+		target_object_id	=	16777984,
+		targetPilotName	=	"Ural-4320T",
+		type	=	"hit",
+		target_unit_type	=	"Ural-4320T",
+		t	=	833.76,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	25,
+		weapon	=	"9M127 Vikhr",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	2,
+	}, -- end of [12]
+	[13] = 
+	{
+		weapon_type	=	3803204,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	25,
+		targetMissionID	=	"6",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16778240,
+		target	=	"Ural-4320T",
+		target_object_id	=	16777984,
+		targetPilotName	=	"Ural-4320T",
+		type	=	"kill",
+		target_unit_type	=	"Ural-4320T",
+		t	=	833.76,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	27,
+		weapon	=	"9M127 Vikhr",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	2,
+	}, -- end of [13]
+	[14] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	833.76,
+		linked_event_id	=	27,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	28,
+		initiator_object_id	=	16778240,
+		amount	=	5,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [14]
+	[15] = 
+	{
+		weapon_type	=	3803204,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"6",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16778240,
+		target	=	"Ural-4320T",
+		target_object_id	=	16777984,
+		targetPilotName	=	"Ural-4320T",
+		type	=	"bda",
+		target_unit_type	=	"Ural-4320T",
+		t	=	833.76,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	30,
+		weapon	=	"9M127 Vikhr",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	2,
+	}, -- end of [15]
+	[16] = 
+	{
+		weapon_type	=	3803204,
+		type	=	"shot",
+		initiatorPilotName	=	"Lysergia",
+		t	=	950.68,
+		initiator_unit_type	=	"Su-25T",
+		linked_event_id	=	0,
+		initiator_object_id	=	16778240,
+		event_id	=	33,
+		weapon	=	"9M127 Vikhr",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [16]
+	[17] = 
+	{
+		weapon_type	=	3803204,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	33,
+		targetMissionID	=	"9",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16778240,
+		target	=	"Ural-4320T",
+		target_object_id	=	16777728,
+		targetPilotName	=	"Ural-4320T",
+		type	=	"hit",
+		target_unit_type	=	"Ural-4320T",
+		t	=	956.91,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	34,
+		weapon	=	"9M127 Vikhr",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	2,
+	}, -- end of [17]
+	[18] = 
+	{
+		weapon_type	=	3803204,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	34,
+		targetMissionID	=	"9",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16778240,
+		target	=	"Ural-4320T",
+		target_object_id	=	16777728,
+		targetPilotName	=	"Ural-4320T",
+		type	=	"kill",
+		target_unit_type	=	"Ural-4320T",
+		t	=	956.91,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	36,
+		weapon	=	"9M127 Vikhr",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	2,
+	}, -- end of [18]
+	[19] = 
+	{
+		type	=	"score",
+		initiatorPilotName	=	"Lysergia",
+		t	=	956.91,
+		linked_event_id	=	36,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	37,
+		initiator_object_id	=	16778240,
+		amount	=	5,
+		comment	=	"ground",
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [19]
+	[20] = 
+	{
+		weapon_type	=	3803204,
+		initiatorPilotName	=	"Lysergia",
+		target_coalition	=	1,
+		linked_event_id	=	0,
+		targetMissionID	=	"9",
+		target_ws_type1	=	2,
+		initiator_object_id	=	16778240,
+		target	=	"Ural-4320T",
+		target_object_id	=	16777728,
+		targetPilotName	=	"Ural-4320T",
+		type	=	"bda",
+		target_unit_type	=	"Ural-4320T",
+		t	=	956.91,
+		initiator_unit_type	=	"Su-25T",
+		event_id	=	39,
+		weapon	=	"9M127 Vikhr",
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+		initiator_coalition	=	2,
+	}, -- end of [20]
+	[21] = 
+	{
+		type	=	"land",
+		initiatorPilotName	=	"Lysergia",
+		place	=	"Senaki-Kolkhi",
+		t	=	1531.9,
+		placeDisplayName	=	"Senaki-Kolkhi",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16778240,
+		linked_event_id	=	0,
+		event_id	=	43,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [21]
+	[22] = 
+	{
+		type	=	"engine shutdown",
+		initiatorPilotName	=	"Lysergia",
+		place	=	"Senaki-Kolkhi",
+		t	=	1697,
+		placeDisplayName	=	"Senaki-Kolkhi",
+		initiator_unit_type	=	"Su-25T",
+		initiator_object_id	=	16778240,
+		linked_event_id	=	0,
+		event_id	=	44,
+		initiator_coalition	=	2,
+		initiator_ws_type1	=	1,
+		initiatorMissionID	=	"4",
+	}, -- end of [22]
+	[23] = 
+	{
+		type	=	"mission end",
+		comment	=	"winner: , msg: ",
+		t	=	1697.34,
+		linked_event_id	=	0,
+		event_id	=	46,
+	}, -- end of [23]
+} -- end of events
