@@ -68,12 +68,15 @@ jobs:
         continue-on-error: true
 
   # Cabal Builds w/ 3 Latest GHC Versions
+  # TODO: stuck w/ just 9.10 for now since that's only one that supports GHC204
   build-cabal:
     name: GHC / Cabal
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        ghc: ['9.6', '9.8', '9.10']
+        ghc: ['9.10']
+        # ghc: ['9.10', '9.12']
+        # ghc: ['9.10', '9.12', '9.14']
     steps:
       - uses: actions/checkout@v4
       - name: Cache Cabal Artifacts

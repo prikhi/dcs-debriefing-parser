@@ -53,8 +53,6 @@ library
     , time
     , unordered-containers
   default-language: GHC2024
-  if impl(ghc < 8.10.0)
-    default-language: GHC2021
 
 executable dcs-debriefing-parser
   main-is: Main.hs
@@ -74,8 +72,6 @@ executable dcs-debriefing-parser
       base >=4.7 && <5
     , dcs-debriefing-parser
   default-language: GHC2024
-  if impl(ghc < 8.10.0)
-    default-language: GHC2021
 
 test-suite dcs-debriefing-parser-test
   type: exitcode-stdio-1.0
@@ -100,5 +96,3 @@ test-suite dcs-debriefing-parser-test
     , tasty-hedgehog
     , tasty-hunit
   default-language: GHC2024
-  if impl(ghc < 8.10.0)
-    default-language: GHC2021
