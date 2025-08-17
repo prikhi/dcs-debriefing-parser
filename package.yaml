@@ -35,6 +35,9 @@ description: |
 
 
 language: GHC2024
+when:
+    - condition: impl(ghc < 8.10.0)
+      language: GHC2021
 
 ghc-options:
     - -Wall
